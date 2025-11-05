@@ -1,0 +1,37 @@
+1. Acquisition of Disk Image:
+   - The provided disk image (NPS 2009 Casper-RW) was downloaded from the Digital Corpora repository.
+   - The integrity of the image was preserved by keeping it in a read-only state.
+
+2. Initial Triage:
+   - Autopsy was used to gain an overview of the file system.
+   - The case was created with the data source set to the .dd disk image.
+   - File types, partition layout, and filesystem metadata were reviewed.
+
+3. Live File System Examination:
+   - Autopsy’s browser interface was used to explore allocated files.
+   - Suspicious directories, user profiles, document files, and browser traces were inspected.
+   - Timeline and metadata views were referenced to understand user activity patterns.
+
+4. Detection of Deleted Artifacts:
+   - The Sleuth Kit (TSK) command-line tools were used to list all files, including deleted entries.
+   - The `fls` command generated a full index of the file system.
+   - Deleted file entries were filtered and stored in DeletedFileList.txt.
+
+5. File Recovery:
+   - `icat` was used to recover selected deleted files by referencing inode numbers.
+   - Recovered artifacts were placed in the “deleted/” directory for analysis.
+   - Focus was placed on document files which could contain personally identifiable or operational data.
+
+6. Content Analysis:
+   - `strings` was used on recovered files to extract readable text patterns.
+   - Autopsy keyword search was used to verify file relevance.
+   - Any document containing meaningful user-generated content was listed in DeletedDocs.txt.
+
+7. Documentation of Output:
+   - A full file listing from the image was exported as FileListing.txt.
+   - DeletedFileList.txt included only deleted artifacts identified.
+   - DeletedDocs.txt included recovered documents that appeared relevant, sensitive, or user-generated.
+
+8. Reporting:
+   - Findings from Autopsy and command-line analysis were combined.
+   - The final report summarizes observed activity and provides a structured breakdown of recovered artifacts.

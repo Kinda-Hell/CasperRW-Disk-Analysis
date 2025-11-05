@@ -1,0 +1,23 @@
+# List complete filesystem including deleted files
+fls -r -m / <disk_image.dd> > FileListing.txt
+
+# Extract only deleted file entries (filtered manually or using grep)
+grep "\* deleted" FileListing.txt > DeletedFileList.txt
+
+# Recover a deleted file using inode number
+icat <disk_image.dd> <inode_number> > recovered_filename.ext
+
+# Example:
+icat disk.dd 12345 > deleted_note.txt
+
+# Extract readable strings from recovered files for quick inspection
+strings recovered_filename.ext > recovered_filename_strings.txt
+
+# Check filesystem metadata (optional)
+fsstat <disk_image.dd>
+
+# View partition information
+mmls <disk_image.dd>
+
+# Verify image format and type
+file <disk_image.dd>

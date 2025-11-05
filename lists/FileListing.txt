@@ -1,0 +1,1821 @@
+d/d 15361:	home
+d/d 15362:	home/ubuntu
+r/r 15363:	home/ubuntu/.bash_logout
+r/r 15364:	home/ubuntu/.bashrc
+r/r 15365:	home/ubuntu/.profile
+d/d 15369:	home/ubuntu/.gconf
+d/d 15370:	home/ubuntu/.gconf/apps
+d/d 15372:	home/ubuntu/.gconf/apps/panel
+d/d 15374:	home/ubuntu/.gconf/apps/panel/global
+r/r * 15375(realloc):	home/ubuntu/.gconf/apps/panel/global/%gconf.xml.new
+r/r 15375:	home/ubuntu/.gconf/apps/panel/global/%gconf.xml
+r/r 15373:	home/ubuntu/.gconf/apps/panel/%gconf.xml
+d/d 15418:	home/ubuntu/.gconf/apps/panel/applets
+d/d 15472:	home/ubuntu/.gconf/apps/panel/applets/clock_screen0
+d/d 15518:	home/ubuntu/.gconf/apps/panel/applets/clock_screen0/prefs
+r/r * 15391(realloc):	home/ubuntu/.gconf/apps/panel/applets/clock_screen0/prefs/%gconf.xml.new
+r/r 15391:	home/ubuntu/.gconf/apps/panel/applets/clock_screen0/prefs/%gconf.xml
+r/r 15473:	home/ubuntu/.gconf/apps/panel/applets/clock_screen0/%gconf.xml
+r/r 15455:	home/ubuntu/.gconf/apps/panel/applets/%gconf.xml
+d/d 15456:	home/ubuntu/.gconf/apps/panel/applets/fast_user_switch_screen0
+d/d 15378:	home/ubuntu/.gconf/apps/panel/applets/fast_user_switch_screen0/prefs
+r/r * 15517(realloc):	home/ubuntu/.gconf/apps/panel/applets/fast_user_switch_screen0/prefs/%gconf.xml.new
+r/r 15517:	home/ubuntu/.gconf/apps/panel/applets/fast_user_switch_screen0/prefs/%gconf.xml
+r/r 15457:	home/ubuntu/.gconf/apps/panel/applets/fast_user_switch_screen0/%gconf.xml
+d/d 15458:	home/ubuntu/.gconf/apps/panel/applets/trashapplet_screen0
+r/r * 15459(realloc):	home/ubuntu/.gconf/apps/panel/applets/trashapplet_screen0/%gconf.xml.new
+r/r 15459:	home/ubuntu/.gconf/apps/panel/applets/trashapplet_screen0/%gconf.xml
+d/d 15460:	home/ubuntu/.gconf/apps/panel/applets/workspace_switcher_screen0
+d/d 15462:	home/ubuntu/.gconf/apps/panel/applets/workspace_switcher_screen0/prefs
+r/r * 15850(realloc):	home/ubuntu/.gconf/apps/panel/applets/workspace_switcher_screen0/prefs/%gconf.xml.new
+r/r 15850:	home/ubuntu/.gconf/apps/panel/applets/workspace_switcher_screen0/prefs/%gconf.xml
+r/r 15461:	home/ubuntu/.gconf/apps/panel/applets/workspace_switcher_screen0/%gconf.xml
+d/d 15464:	home/ubuntu/.gconf/apps/panel/applets/window_list_screen0
+d/d 15466:	home/ubuntu/.gconf/apps/panel/applets/window_list_screen0/prefs
+r/r * 15853(realloc):	home/ubuntu/.gconf/apps/panel/applets/window_list_screen0/prefs/%gconf.xml.new
+r/r 15853:	home/ubuntu/.gconf/apps/panel/applets/window_list_screen0/prefs/%gconf.xml
+r/r 15465:	home/ubuntu/.gconf/apps/panel/applets/window_list_screen0/%gconf.xml
+d/d 15468:	home/ubuntu/.gconf/apps/panel/applets/show_desktop_button_screen0
+r/r * 15469(realloc):	home/ubuntu/.gconf/apps/panel/applets/show_desktop_button_screen0/%gconf.xml.new
+r/r 15469:	home/ubuntu/.gconf/apps/panel/applets/show_desktop_button_screen0/%gconf.xml
+d/d 15470:	home/ubuntu/.gconf/apps/panel/applets/notification_area_screen0
+r/r * 15471(realloc):	home/ubuntu/.gconf/apps/panel/applets/notification_area_screen0/%gconf.xml.new
+r/r 15471:	home/ubuntu/.gconf/apps/panel/applets/notification_area_screen0/%gconf.xml
+d/d 15474:	home/ubuntu/.gconf/apps/panel/applets/mixer_screen0
+r/r * 15475(realloc):	home/ubuntu/.gconf/apps/panel/applets/mixer_screen0/%gconf.xml.new
+r/r 15475:	home/ubuntu/.gconf/apps/panel/applets/mixer_screen0/%gconf.xml
+d/d 15476:	home/ubuntu/.gconf/apps/panel/objects
+d/d 15486:	home/ubuntu/.gconf/apps/panel/objects/menu_bar_screen0
+r/r * 15487(realloc):	home/ubuntu/.gconf/apps/panel/objects/menu_bar_screen0/%gconf.xml.new
+r/r 15487:	home/ubuntu/.gconf/apps/panel/objects/menu_bar_screen0/%gconf.xml
+r/r 15477:	home/ubuntu/.gconf/apps/panel/objects/%gconf.xml
+d/d 15478:	home/ubuntu/.gconf/apps/panel/objects/clock_separator_screen0
+r/r * 15479(realloc):	home/ubuntu/.gconf/apps/panel/objects/clock_separator_screen0/%gconf.xml.new
+r/r 15479:	home/ubuntu/.gconf/apps/panel/objects/clock_separator_screen0/%gconf.xml
+d/d 15480:	home/ubuntu/.gconf/apps/panel/objects/yelp_launcher_screen0
+r/r * 15481(realloc):	home/ubuntu/.gconf/apps/panel/objects/yelp_launcher_screen0/%gconf.xml.new
+r/r 15481:	home/ubuntu/.gconf/apps/panel/objects/yelp_launcher_screen0/%gconf.xml
+d/d 15482:	home/ubuntu/.gconf/apps/panel/objects/email_launcher_screen0
+r/r * 15483(realloc):	home/ubuntu/.gconf/apps/panel/objects/email_launcher_screen0/%gconf.xml.new
+r/r 15483:	home/ubuntu/.gconf/apps/panel/objects/email_launcher_screen0/%gconf.xml
+d/d 15484:	home/ubuntu/.gconf/apps/panel/objects/browser_launcher_screen0
+r/r * 15485(realloc):	home/ubuntu/.gconf/apps/panel/objects/browser_launcher_screen0/%gconf.xml.new
+r/r 15485:	home/ubuntu/.gconf/apps/panel/objects/browser_launcher_screen0/%gconf.xml
+d/d 15488:	home/ubuntu/.gconf/apps/panel/general
+r/r * 15675(realloc):	home/ubuntu/.gconf/apps/panel/general/%gconf.xml.new
+r/r 15675:	home/ubuntu/.gconf/apps/panel/general/%gconf.xml
+d/d 15490:	home/ubuntu/.gconf/apps/panel/toplevels
+r/r * 15491(realloc):	home/ubuntu/.gconf/apps/panel/toplevels/%gconf.xml.new
+r/r 15491:	home/ubuntu/.gconf/apps/panel/toplevels/%gconf.xml
+d/d 15492:	home/ubuntu/.gconf/apps/panel/toplevels/bottom_panel_screen0
+d/d 15494:	home/ubuntu/.gconf/apps/panel/toplevels/bottom_panel_screen0/background
+r/r * 15495(realloc):	home/ubuntu/.gconf/apps/panel/toplevels/bottom_panel_screen0/background/%gconf.xml.new
+r/r 15495:	home/ubuntu/.gconf/apps/panel/toplevels/bottom_panel_screen0/background/%gconf.xml
+r/r 15493:	home/ubuntu/.gconf/apps/panel/toplevels/bottom_panel_screen0/%gconf.xml
+d/d 15496:	home/ubuntu/.gconf/apps/panel/toplevels/top_panel_screen0
+d/d 15498:	home/ubuntu/.gconf/apps/panel/toplevels/top_panel_screen0/background
+r/r * 15499(realloc):	home/ubuntu/.gconf/apps/panel/toplevels/top_panel_screen0/background/%gconf.xml.new
+r/r 15499:	home/ubuntu/.gconf/apps/panel/toplevels/top_panel_screen0/background/%gconf.xml
+r/r 15497:	home/ubuntu/.gconf/apps/panel/toplevels/top_panel_screen0/%gconf.xml
+r/r 15371:	home/ubuntu/.gconf/apps/%gconf.xml
+d/d 15376:	home/ubuntu/.gconf/apps/gnome-screensaver
+r/r * 15963(realloc):	home/ubuntu/.gconf/apps/gnome-screensaver/%gconf.xml.new
+r/r 15963:	home/ubuntu/.gconf/apps/gnome-screensaver/%gconf.xml
+d/d 15385:	home/ubuntu/.gconf/apps/gnome-power-manager
+d/d 15387:	home/ubuntu/.gconf/apps/gnome-power-manager/general
+r/r * 15388(realloc):	home/ubuntu/.gconf/apps/gnome-power-manager/general/%gconf.xml.new
+r/r 15388:	home/ubuntu/.gconf/apps/gnome-power-manager/general/%gconf.xml
+r/r 15386:	home/ubuntu/.gconf/apps/gnome-power-manager/%gconf.xml
+d/d 15454:	home/ubuntu/.gconf/apps/evolution
+d/d 15512:	home/ubuntu/.gconf/apps/evolution/calendar
+d/d 15514:	home/ubuntu/.gconf/apps/evolution/calendar/notify
+r/r * 15515(realloc):	home/ubuntu/.gconf/apps/evolution/calendar/notify/%gconf.xml.new
+r/r 15515:	home/ubuntu/.gconf/apps/evolution/calendar/notify/%gconf.xml
+r/r 15511:	home/ubuntu/.gconf/apps/evolution/calendar/%gconf.xml
+d/d 23219:	home/ubuntu/.gconf/apps/evolution/calendar/memos
+r/r * 23271(realloc):	home/ubuntu/.gconf/apps/evolution/calendar/memos/%gconf.xml.new
+r/r 23271:	home/ubuntu/.gconf/apps/evolution/calendar/memos/%gconf.xml
+d/d 23272:	home/ubuntu/.gconf/apps/evolution/calendar/tasks
+r/r * 23273(realloc):	home/ubuntu/.gconf/apps/evolution/calendar/tasks/%gconf.xml.new
+r/r 23273:	home/ubuntu/.gconf/apps/evolution/calendar/tasks/%gconf.xml
+d/d 23274:	home/ubuntu/.gconf/apps/evolution/calendar/display
+r/r * 23275(realloc):	home/ubuntu/.gconf/apps/evolution/calendar/display/%gconf.xml.new
+r/r 23275:	home/ubuntu/.gconf/apps/evolution/calendar/display/%gconf.xml
+r/r 15529:	home/ubuntu/.gconf/apps/evolution/%gconf.xml
+d/d 23216:	home/ubuntu/.gconf/apps/evolution/mail
+r/r * 23220(realloc):	home/ubuntu/.gconf/apps/evolution/mail/%gconf.xml.new
+r/r 23220:	home/ubuntu/.gconf/apps/evolution/mail/%gconf.xml
+d/d 23218:	home/ubuntu/.gconf/apps/evolution/addressbook
+r/r * 23270(realloc):	home/ubuntu/.gconf/apps/evolution/addressbook/%gconf.xml.new
+r/r 23270:	home/ubuntu/.gconf/apps/evolution/addressbook/%gconf.xml
+d/d 23266:	home/ubuntu/.gconf/apps/evolution/memos
+r/r * 23267(realloc):	home/ubuntu/.gconf/apps/evolution/memos/%gconf.xml.new
+r/r 23267:	home/ubuntu/.gconf/apps/evolution/memos/%gconf.xml
+d/d 23268:	home/ubuntu/.gconf/apps/evolution/tasks
+r/r * 23269(realloc):	home/ubuntu/.gconf/apps/evolution/tasks/%gconf.xml.new
+r/r 23269:	home/ubuntu/.gconf/apps/evolution/tasks/%gconf.xml
+d/d 15661:	home/ubuntu/.gconf/apps/nautilus
+d/d 15663:	home/ubuntu/.gconf/apps/nautilus/preferences
+r/r * 15604(realloc):	home/ubuntu/.gconf/apps/nautilus/preferences/%gconf.xml.new
+r/r 15604:	home/ubuntu/.gconf/apps/nautilus/preferences/%gconf.xml
+r/r 15662:	home/ubuntu/.gconf/apps/nautilus/%gconf.xml
+d/d 15519:	home/ubuntu/.gconf/apps/gnome-terminal
+d/d 15671:	home/ubuntu/.gconf/apps/gnome-terminal/profiles
+d/d 15673:	home/ubuntu/.gconf/apps/gnome-terminal/profiles/Default
+r/r * 15591(realloc):	home/ubuntu/.gconf/apps/gnome-terminal/profiles/Default/%gconf.xml.new
+r/r 15591:	home/ubuntu/.gconf/apps/gnome-terminal/profiles/Default/%gconf.xml
+r/r 15672:	home/ubuntu/.gconf/apps/gnome-terminal/profiles/%gconf.xml
+r/r 15670:	home/ubuntu/.gconf/apps/gnome-terminal/%gconf.xml
+d/d 15679:	home/ubuntu/.gconf/apps/totem
+r/r * 15699(realloc):	home/ubuntu/.gconf/apps/totem/%gconf.xml.new
+r/r 15699:	home/ubuntu/.gconf/apps/totem/%gconf.xml
+d/d 15426:	home/ubuntu/.gconf/desktop
+d/d 15428:	home/ubuntu/.gconf/desktop/gnome
+d/d 15430:	home/ubuntu/.gconf/desktop/gnome/applications
+d/d 15432:	home/ubuntu/.gconf/desktop/gnome/applications/window_manager
+r/r * 15852(realloc):	home/ubuntu/.gconf/desktop/gnome/applications/window_manager/%gconf.xml.new
+r/r 15852:	home/ubuntu/.gconf/desktop/gnome/applications/window_manager/%gconf.xml
+r/r 15431:	home/ubuntu/.gconf/desktop/gnome/applications/%gconf.xml
+r/r 15429:	home/ubuntu/.gconf/desktop/gnome/%gconf.xml
+d/d 15504:	home/ubuntu/.gconf/desktop/gnome/accessibility
+d/d 15506:	home/ubuntu/.gconf/desktop/gnome/accessibility/keyboard
+r/r * 15507(realloc):	home/ubuntu/.gconf/desktop/gnome/accessibility/keyboard/%gconf.xml.new
+r/r 15507:	home/ubuntu/.gconf/desktop/gnome/accessibility/keyboard/%gconf.xml
+r/r 15505:	home/ubuntu/.gconf/desktop/gnome/accessibility/%gconf.xml
+d/d 15575:	home/ubuntu/.gconf/desktop/gnome/peripherals
+d/d 15579:	home/ubuntu/.gconf/desktop/gnome/peripherals/keyboard
+d/d 15581:	home/ubuntu/.gconf/desktop/gnome/peripherals/keyboard/host-ubuntu
+d/d 15583:	home/ubuntu/.gconf/desktop/gnome/peripherals/keyboard/host-ubuntu/0
+r/r * 15674(realloc):	home/ubuntu/.gconf/desktop/gnome/peripherals/keyboard/host-ubuntu/0/%gconf.xml.new
+r/r 15674:	home/ubuntu/.gconf/desktop/gnome/peripherals/keyboard/host-ubuntu/0/%gconf.xml
+r/r 15582:	home/ubuntu/.gconf/desktop/gnome/peripherals/keyboard/host-ubuntu/%gconf.xml
+r/r 15580:	home/ubuntu/.gconf/desktop/gnome/peripherals/keyboard/%gconf.xml
+r/r 15578:	home/ubuntu/.gconf/desktop/gnome/peripherals/%gconf.xml
+r/r 15427:	home/ubuntu/.gconf/desktop/%gconf.xml
+r/r * 16051(realloc):	home/ubuntu/.gconf/.testing.writeability
+d/d 15367:	home/ubuntu/Desktop
+r/r 15368:	home/ubuntu/Desktop/ubiquity-gtkui.desktop
+l/l 15366:	home/ubuntu/Desktop/Examples
+d/d 15619:	home/ubuntu/Desktop/MyStuff
+d/d * 15695(realloc):	home/ubuntu/Desktop/MyStuff/untitled folder
+d/d 15695:	home/ubuntu/Desktop/MyStuff/SEC Documents
+r/r 15697:	home/ubuntu/Desktop/MyStuff/SEC Documents/spch121708cc-idata.wmv
+r/r * 15631(realloc):	home/ubuntu/Desktop/MyStuff/FCC-08-281A2.XLS
+r/r * 15637(realloc):	home/ubuntu/Desktop/MyStuff/FCC-08-281A2.PDF
+r/r * 15639(realloc):	home/ubuntu/Desktop/MyStuff/FCC-08-281A3.XLS
+r/r * 15641(realloc):	home/ubuntu/Desktop/MyStuff/FCC-08-281A3.PDF
+r/r * 15643(realloc):	home/ubuntu/Desktop/MyStuff/FCC-08-281A4.DOC
+r/r * 15645(realloc):	home/ubuntu/Desktop/MyStuff/FCC-08-281A4.PDF
+r/r * 15647(realloc):	home/ubuntu/Desktop/MyStuff/FCC-08-281A5.DOC
+r/r * 15649(realloc):	home/ubuntu/Desktop/MyStuff/FCC-08-281A5.PDF
+r/r * 15651(realloc):	home/ubuntu/Desktop/MyStuff/FCC-08-281A6.DOC
+r/r * 15653(realloc):	home/ubuntu/Desktop/MyStuff/FCC-08-281A6.pdf
+d/d * 15669(realloc):	home/ubuntu/Desktop/MyStuff/untitled folder
+d/d 15669:	home/ubuntu/Desktop/MyStuff/FCC Documents
+r/r 15651:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A6.DOC
+r/r 15653:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A6.pdf
+r/r 15627:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A1.DOC
+r/r 15629:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A1.PDF
+r/r 15637:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A2.PDF
+r/r 15631:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A2.XLS
+r/r 15641:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A3.PDF
+r/r 15639:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A3.XLS
+r/r 15643:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A4.DOC
+r/r 15645:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A4.PDF
+r/r 15647:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A5.DOC
+r/r 15649:	home/ubuntu/Desktop/MyStuff/FCC Documents/FCC-08-281A5.PDF
+r/r 30880:	home/ubuntu/Desktop/msr_response.pdf
+r/r * 30880(realloc):	home/ubuntu/Desktop/msr_response.pdf.part
+r/r * 30891(realloc):	home/ubuntu/Desktop/Trusted_Internet_Connections.zip
+r/r * 30891(realloc):	home/ubuntu/Desktop/Trusted_Internet_Connections.zip.part
+r/r * 30892(realloc):	home/ubuntu/Desktop/Product_Grants_Inf_Exchange_Matrix.xls
+r/r * 15946(realloc):	home/ubuntu/Desktop/FED_PRIV_SUMMIT_2008_TECH_PROFESSIONALS_PANEL.ppt
+r/r * 30886(realloc):	home/ubuntu/Desktop/FED_PRIV_SUMMIT_2008_TECH_PROFESSIONALS_PANEL.ppt.part
+d/d * 23338(realloc):	home/ubuntu/Desktop/untitled folder
+d/d * 23338(realloc):	home/ubuntu/Desktop/fed privacy
+r/r * 15585:	home/ubuntu/.Xauthority
+r/r 15400:	home/ubuntu/.xsession-errors
+r/r 15966:	home/ubuntu/.dmrc
+d/d 15401:	home/ubuntu/Templates
+d/d 15403:	home/ubuntu/Public
+d/d 15404:	home/ubuntu/Documents
+d/d 23215:	home/ubuntu/Documents/ssa.gov
+r/r 15528:	home/ubuntu/Documents/ssa.gov/10024-AR.pdf
+r/r 30894:	home/ubuntu/Documents/ssa.gov/SS-5-AM.pdf
+r/r 30895:	home/ubuntu/Documents/ssa.gov/chinese.htm
+r/r 30897:	home/ubuntu/Documents/ssa.gov/10003-GR.pdf
+r/r 30896:	home/ubuntu/Documents/ssa.gov/10002-CH.pdf
+d/d 23241:	home/ubuntu/Documents/ideas for future codes_files
+r/r 23276:	home/ubuntu/Documents/ideas for future codes_files/stdLauncher.js
+r/r 23279:	home/ubuntu/Documents/ideas for future codes_files/editors.gif
+r/r 23280:	home/ubuntu/Documents/ideas for future codes_files/handbook.gif
+r/r 23281:	home/ubuntu/Documents/ideas for future codes_files/masonic5.gif
+r/r 23282:	home/ubuntu/Documents/ideas for future codes_files/page.gif
+r/r 23283:	home/ubuntu/Documents/ideas for future codes_files/masonic3.gif
+r/r 23284:	home/ubuntu/Documents/ideas for future codes_files/tictactoe1.gif
+r/r 23285:	home/ubuntu/Documents/ideas for future codes_files/triggerParams.js
+r/r 23286:	home/ubuntu/Documents/ideas for future codes_files/masonic1.gif
+r/r 23287:	home/ubuntu/Documents/ideas for future codes_files/seal.jpg
+r/r 23288:	home/ubuntu/Documents/ideas for future codes_files/urchin.js
+r/r 23289:	home/ubuntu/Documents/ideas for future codes_files/current.gif
+r/r 23290:	home/ubuntu/Documents/ideas for future codes_files/lib3.gif
+r/r 23291:	home/ubuntu/Documents/ideas for future codes_files/links.gif
+r/r 23292:	home/ubuntu/Documents/ideas for future codes_files/bookmaking.gif
+r/r 23293:	home/ubuntu/Documents/ideas for future codes_files/labhome.gif
+r/r 23294:	home/ubuntu/Documents/ideas for future codes_files/tictactoe2.gif
+r/r 23295:	home/ubuntu/Documents/ideas for future codes_files/masonic4.gif
+r/r 23296:	home/ubuntu/Documents/ideas for future codes_files/bookmaking3.gif
+r/r 23297:	home/ubuntu/Documents/ideas for future codes_files/masonic2.gif
+r/r 23298:	home/ubuntu/Documents/ideas for future codes_files/back.jpg
+r/r 23299:	home/ubuntu/Documents/ideas for future codes_files/author.gif
+r/r 23300:	home/ubuntu/Documents/ideas for future codes_files/topline2.jpg
+r/r 23301:	home/ubuntu/Documents/ideas for future codes_files/search.gif
+r/r 23302:	home/ubuntu/Documents/ideas for future codes_files/sidebar.gif
+r/r 23303:	home/ubuntu/Documents/ideas for future codes_files/backiss.gif
+r/r 23304:	home/ubuntu/Documents/ideas for future codes_files/journal.gif
+r/r 15841:	home/ubuntu/Documents/ideas for future codes.htm
+d/d 23305:	home/ubuntu/Documents/jobs 2008-12-31_files
+r/r 23306:	home/ubuntu/Documents/jobs 2008-12-31_files/sn_series_off.gif
+r/r 23307:	home/ubuntu/Documents/jobs 2008-12-31_files/header_tab_myUSAJOBS.gif
+r/r 23308:	home/ubuntu/Documents/jobs 2008-12-31_files/sort_triangle_up.gif
+r/r 23309:	home/ubuntu/Documents/jobs 2008-12-31_files/triggerParams.js
+r/r 23310:	home/ubuntu/Documents/jobs 2008-12-31_files/sn_basic_on.gif
+r/r 23311:	home/ubuntu/Documents/jobs 2008-12-31_files/pixel.gif
+r/r 23312:	home/ubuntu/Documents/jobs 2008-12-31_files/JobSearchResults2.gif
+r/r 23313:	home/ubuntu/Documents/jobs 2008-12-31_files/14x21_flag_sm.gif
+r/r 23314:	home/ubuntu/Documents/jobs 2008-12-31_files/help_off3.gif
+r/r 23315:	home/ubuntu/Documents/jobs 2008-12-31_files/header_tab_forms1.gif
+r/r 23316:	home/ubuntu/Documents/jobs 2008-12-31_files/sn_advanced_off.gif
+r/r 23317:	home/ubuntu/Documents/jobs 2008-12-31_files/refine-bttn.gif
+r/r 23318:	home/ubuntu/Documents/jobs 2008-12-31_files/footer_egov_logo.jpg
+r/r 23319:	home/ubuntu/Documents/jobs 2008-12-31_files/briefview_tab_70x19.gif
+r/r 23320:	home/ubuntu/Documents/jobs 2008-12-31_files/header_tab_emplyr.gif
+r/r 23321:	home/ubuntu/Documents/jobs 2008-12-31_files/detailed_tab_98x19.gif
+r/r 23322:	home/ubuntu/Documents/jobs 2008-12-31_files/header_USAJOBS_r6.gif
+r/r 23323:	home/ubuntu/Documents/jobs 2008-12-31_files/header_USAJOBS_l6.gif
+r/r 23324:	home/ubuntu/Documents/jobs 2008-12-31_files/sn_agency_off.gif
+r/r 23325:	home/ubuntu/Documents/jobs 2008-12-31_files/dcsi4u0zt00000g4ea6le2s1o_8k6u_main.js
+r/r 23326:	home/ubuntu/Documents/jobs 2008-12-31_files/footer_background.gif
+r/r 23327:	home/ubuntu/Documents/jobs 2008-12-31_files/stdLauncher.js
+r/r 23328:	home/ubuntu/Documents/jobs 2008-12-31_files/sn_senior_off.gif
+r/r 23329:	home/ubuntu/Documents/jobs 2008-12-31_files/header_tab_vets1.gif
+r/r 23330:	home/ubuntu/Documents/jobs 2008-12-31_files/footer_wfa_logo.jpg
+r/r 23331:	home/ubuntu/Documents/jobs 2008-12-31_files/dcsi4u0zt00000g4ea6le2s1o_8k6u.js
+r/r 23332:	home/ubuntu/Documents/jobs 2008-12-31_files/clear.gif
+r/r 23333:	home/ubuntu/Documents/jobs 2008-12-31_files/USAJOBS_JS_resbuilder.gif
+r/r 23334:	home/ubuntu/Documents/jobs 2008-12-31_files/header_tab_infocntr1.gif
+r/r 23335:	home/ubuntu/Documents/jobs 2008-12-31_files/usagov-logo.jpg
+r/r 23336:	home/ubuntu/Documents/jobs 2008-12-31_files/header_tab_search_on.gif
+r/r 23337:	home/ubuntu/Documents/jobs 2008-12-31_files/usajobs_styles.html
+r/r 15520:	home/ubuntu/Documents/jobs 2008-12-31.html
+d/d 23339:	home/ubuntu/Documents/hacks
+r/r 23340:	home/ubuntu/Documents/hacks/sp800-30.pdf
+r/r 30890:	home/ubuntu/Documents/hacks/Managing_Information_Risk.pdf
+r/r 30891:	home/ubuntu/Documents/hacks/Trusted_Internet_Connections.zip
+r/r 30892:	home/ubuntu/Documents/hacks/Product_Grants_Inf_Exchange_Matrix.xls
+r/r * 30890(realloc):	home/ubuntu/Documents/Managing_Information_Risk.pdf
+r/r * 30891(realloc):	home/ubuntu/Documents/Trusted_Internet_Connections.zip
+r/r * 30892(realloc):	home/ubuntu/Documents/Product_Grants_Inf_Exchange_Matrix.xls
+d/d 23338:	home/ubuntu/Documents/fed privacy
+r/r 30882:	home/ubuntu/Documents/fed privacy/FED_PRIV_SUMMIT_2008_TECHNOLOGY_PRIVACY_PANEL.pptx
+r/r 15946:	home/ubuntu/Documents/fed privacy/FED_PRIV_SUMMIT_2008_TECH_PROFESSIONALS_PANEL.ppt
+r/r 30886:	home/ubuntu/Documents/fed privacy/FED_PRIV_SUMMIT_2008_TECH_PROFESSIONALS_PANEL.ppt.part
+r/r 30883:	home/ubuntu/Documents/fed privacy/FED_PRIV_SUMMIT_2008_INTRO_HIPPA_PANEL.ppt
+r/r 30885:	home/ubuntu/Documents/fed privacy/FED_PRIV_SUMMIT_2008_INTRO_HIPPA_PANEL2.pdf
+r/r 30887:	home/ubuntu/Documents/fed privacy/FED_PRIV_SUMMIT_2008_PRIVACY_ACT_PANEL.pptm
+d/d 15405:	home/ubuntu/Music
+d/d 15406:	home/ubuntu/Pictures
+d/d 15407:	home/ubuntu/Videos
+d/d 15408:	home/ubuntu/.config
+r/r 15410:	home/ubuntu/.config/user-dirs.locale
+r/r 15409:	home/ubuntu/.config/user-dirs.dirs
+d/d 15609:	home/ubuntu/.config/tracker
+r/r * 15610(realloc):	home/ubuntu/.config/tracker/tracker.cfg.ACIVMU
+r/r 15610:	home/ubuntu/.config/tracker/tracker.cfg
+d/d 15508:	home/ubuntu/.config/gtk-2.0
+r/r * 15947(realloc):	home/ubuntu/.config/gtk-2.0/gtkfilechooser.ini.PA8NMU
+r/r 15947:	home/ubuntu/.config/gtk-2.0/gtkfilechooser.ini
+d/d 15411:	home/ubuntu/.dbus
+d/d 15412:	home/ubuntu/.dbus/session-bus
+r/r 15413:	home/ubuntu/.dbus/session-bus/1bc81c59fe3e97e25e8a990649577b0c-0
+d/d 15414:	home/ubuntu/.pulse
+r/r 15453:	home/ubuntu/.pulse/volume-restore.table
+r/r 15415:	home/ubuntu/.esd_auth
+r/r 15416:	home/ubuntu/.pulse-cookie
+d/d 15417:	home/ubuntu/.gconfd
+r/r 16003:	home/ubuntu/.gconfd/saved_state
+r/r * 16003(realloc):	home/ubuntu/.gconfd/saved_state.tmp
+r/r * 15838:	home/ubuntu/.gconfd/saved_state.orig
+r/r * 12(realloc):	home/ubuntu/.gconfd/.wh.guest-session-cleanup.sh
+r/r * 12(realloc):	home/ubuntu/.gconfd/.wh.Xsession
+d/d 15419:	home/ubuntu/.gnupg
+r/r 15420:	home/ubuntu/.gnupg/gpg.conf
+d/d 15421:	home/ubuntu/.gnome2
+d/d 15423:	home/ubuntu/.gnome2/keyrings
+d/d 15425:	home/ubuntu/.gnome2/accels
+d/d 15437:	home/ubuntu/.gnome2/share
+d/d 15438:	home/ubuntu/.gnome2/share/fonts
+r/r 15441:	home/ubuntu/.gnome2/share/fonts/fonts.dir
+d/d 15439:	home/ubuntu/.gnome2/share/cursor-fonts
+r/r 15440:	home/ubuntu/.gnome2/share/cursor-fonts/fonts.dir
+d/d 15444:	home/ubuntu/.gnome2/nautilus-scripts
+d/d 15450:	home/ubuntu/.gnome2/panel2.d
+d/d 15451:	home/ubuntu/.gnome2/panel2.d/default
+d/d 15452:	home/ubuntu/.gnome2/panel2.d/default/launchers
+d/d 23213:	home/ubuntu/.gnome2/evince
+r/r 23214:	home/ubuntu/.gnome2/evince/ev-metadata.xml
+r/r 15584:	home/ubuntu/.gnome2/accelsevince
+d/d 15424:	home/ubuntu/.gnome2_private
+r/r 15422:	home/ubuntu/.ICEauthority
+d/d 15433:	home/ubuntu/.fontconfig
+r/r * 15436(realloc):	home/ubuntu/.fontconfig/e13b20fdb08344e0e664864cc2ede53d-x86.cache-2.NEW
+r/d * 15435(realloc):	home/ubuntu/.fontconfig/e13b20fdb08344e0e664864cc2ede53d-x86.cache-2.LCK
+r/r 15436:	home/ubuntu/.fontconfig/e13b20fdb08344e0e664864cc2ede53d-x86.cache-2
+d/d 15435:	home/ubuntu/.gvfs
+d/d 15442:	home/ubuntu/.nautilus
+d/d 15443:	home/ubuntu/.nautilus/metafiles
+r/r 15952:	home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDocuments.xml
+r/r 16047:	home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDesktop.xml
+r/r 15603:	home/ubuntu/.nautilus/metafiles/x-nautilus-desktop:%2F%2F%2F.xml
+r/r 15942:	home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDesktop%2Ffed%2520privacy.xml
+r/r 15659:	home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDesktop%2FMyStuff.xml
+r/r 15845:	home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDocuments%2Fssa.gov.xml
+r/r * 16047(realloc):	home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDesktop.xmlhYh6ZR
+r/r 15960:	home/ubuntu/.nautilus/metafiles/file:%2F%2F%2Fhome%2Fubuntu%2FDocuments%2Fhacks.xml
+r/r 15565:	home/ubuntu/.nautilus/saved-session-LMN4MU
+r/r 15666:	home/ubuntu/.nautilus/saved-session-NG63MU
+d/d 15445:	home/ubuntu/.local
+d/d 15446:	home/ubuntu/.local/share
+d/d 15447:	home/ubuntu/.local/share/Trash
+d/d 15448:	home/ubuntu/.local/share/Trash/files
+d/d 15449:	home/ubuntu/.local/share/Trash/info
+d/d 15602:	home/ubuntu/.local/share/tracker
+d/d 15605:	home/ubuntu/.local/share/tracker/data
+r/r 15611:	home/ubuntu/.local/share/tracker/data/common.db
+r/r * 15375(realloc):	home/ubuntu/.local/share/tracker/data/common.db-journal
+r/r 15608:	home/ubuntu/.local/share/tracker/ubuntu_tracker_lock
+r/r 15726:	home/ubuntu/.local/share/tracker/tracker.log
+d/d 15501:	home/ubuntu/.update-notifier
+r/r 15500:	home/ubuntu/.gtk-bookmarks
+d/d 15502:	home/ubuntu/.gstreamer-0.10
+r/r * 15510(realloc):	home/ubuntu/.gstreamer-0.10/registry.i486.bin.tmpY3M3MU
+r/r 15510:	home/ubuntu/.gstreamer-0.10/registry.i486.bin
+d/d 15516:	home/ubuntu/.mozilla
+d/d 15521:	home/ubuntu/.mozilla/firefox
+r/r 15522:	home/ubuntu/.mozilla/firefox/profiles.ini
+d/d 15523:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default
+r/r 15524:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarks.html
+d/d 15525:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/chrome
+r/r 15526:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/chrome/userChrome-example.css
+r/r 15527:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/chrome/userContent-example.css
+r/r 16026:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/localstore.rdf
+r/r 15959:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/mimeTypes.rdf
+r/r 16036:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/prefs.js
+r/r 15531:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/.parentlock
+l/r * 15838:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/lock
+r/r 15533:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/compatibility.ini
+r/r 15535:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/XPC.mfasl
+r/r 15532:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/xpti.dat
+d/d 15537:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/extensions
+r/r 15536:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/places.sqlite
+r/r 15540:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/permissions.sqlite
+r/r 15547:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/cert8.db
+r/r 15665:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/extensions.cache
+r/r 15543:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/extensions.ini
+r/r 15544:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/extensions.rdf
+r/r 15549:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/XUL.mfasl
+r/r 15534:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/compreg.dat
+r/r 15545:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/secmod.db
+r/r 15548:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/key3.db
+r/r * 16036(realloc):	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/prefs-1.js
+r/r 15550:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/search.sqlite
+r/r 15551:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/formhistory.sqlite
+r/r 15552:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/content-prefs.sqlite
+r/r 15553:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/cookies.sqlite
+d/d 15554:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache
+-/- * 2049:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/^
+r/r 15557:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/_CACHE_002_
+r/r 15558:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/_CACHE_003_
+r/r 15561:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F0FDAB5Ad01
+r/r 15562:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6B8C367Ed01
+r/r 15564:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A89F4DBCd01
+r/r 15568:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4DCD7AFAd01
+r/r 15569:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F6DB4E3Ad01
+r/r 15570:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7F679D2Bd01
+r/r 15571:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F08E29A1d01
+r/r 15572:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/05702B23d01
+r/r 15573:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B9B7AEC8d01
+r/r 15574:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/431A15C2d01
+r/r 15576:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FEA0FEC5d01
+r/r 15577:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/906C52B9d01
+r/r 15586:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9216470Cd01
+r/r 15587:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E8E4C9DFd01
+r/r 15589:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/CBD8A69Ad01
+r/r 15588:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/76845EDDd01
+r/r 15593:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/CD7650BFd01
+r/r 15594:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0D4E0171d01
+r/r 15595:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/41DD089Cd01
+r/r 15596:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F264FB8Ed01
+r/r 15597:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AECACC89d01
+r/r 15598:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AE45D11Bd01
+r/r 15599:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/78075776d01
+r/r 15600:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D6CEB702d01
+r/r 15601:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/01DCB46Dd01
+r/r 15592:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/CA0A8751d01
+r/r 15678:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/89AA9F70d01
+r/r 15691:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C262B651d01
+r/r 15696:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/83700C87d01
+r/r 15700:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F524E188d01
+r/r 15701:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/979B6A0Dd01
+r/r 15620:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/39CA84AFd01
+r/r 15621:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A8DB53F0d01
+r/r 15622:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F5E84275d01
+r/r 15623:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B1195C54d01
+r/r 15628:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC11F6Cd01
+r/r 15630:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC10BD9d01
+r/r 15632:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC2034Cd01
+r/r 15633:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/80585A9Bd01
+r/r 15634:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/91BEEB57d01
+r/r 15635:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/457EE856d01
+r/r 15636:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/37C4B19Cd01
+r/r 15638:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC20BD9d01
+r/r 15640:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC3034Cd01
+r/r 15642:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC30BD9d01
+r/r 15644:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC41F6Cd01
+r/r 15646:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC40BD9d01
+r/r 15648:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC51F6Cd01
+r/r 15650:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC50BD9d01
+r/r 15652:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC61F6Cd01
+r/r 15654:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DC60BD9d01
+r/r 15680:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BAD3D721d01
+r/r 15682:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AE45D71Dd01
+r/r 15683:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/311E9150d01
+r/r 15684:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AC87070Dd01
+r/r 15685:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ADE6553Fd01
+r/r 15686:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AAC16329d01
+r/r 15687:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AA41915Bd01
+r/r 15688:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ABA07953d01
+r/r 15689:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A8C3074Dd01
+r/r 15690:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9FE6F20Cd01
+r/r 15693:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/361CD786d01
+r/r 15694:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FFFE1C1Cd01
+r/r 15692:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FB0B8AF3d01
+r/r 15668:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BDAA65D2d01
+r/r 15698:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E5884DA0d01
+r/r 15681:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8814B9D5d01
+r/r 15703:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/885A8C5Cd01
+r/r 15704:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/1C45A9A9d01
+r/r 15705:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3E1D761Ad01
+r/r 15706:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4B795720d01
+r/r 15707:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/1BD3F25Fd01
+r/r 15702:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E434C96Bd01
+r/r 15709:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3B30366Ad01
+r/r 15710:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B3F316E7d01
+r/r 15711:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/EEA1E42Dd01
+r/r 15712:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ADFA69A7d01
+r/r 15713:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/23CD8AA1d01
+r/r 15714:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/20921288d01
+r/r 15708:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/11005031d01
+r/r 15716:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/090EA251d01
+r/r 15717:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ED9F3FA7d01
+r/r 15718:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/079B5FF1d01
+r/r 15719:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/CA925F68d01
+r/r 15720:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FC8C1C94d01
+r/r 15721:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/256BCBE7d01
+r/r 15715:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/36A7B7CEd01
+r/r 15723:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ED9F5949d01
+r/r 15724:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/56CDBE05d01
+r/r 15725:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B59201FBd01
+r/r 15735:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5BA6F002d01
+r/r 15736:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AA87DA68d01
+r/r 15737:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/209237ABd01
+r/r 15738:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/59E351EBd01
+r/r 15655:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B5923191d01
+r/r 15740:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E0A27CEBd01
+r/r 15741:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D3534574d01
+r/r 15742:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DA9C1181d01
+r/r 15743:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8CC53262d01
+r/r 15744:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9C61D5BBd01
+r/r 15745:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/75819260d01
+r/r 15746:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/898B19A7d01
+r/r 15733:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8EB18968d01
+r/r 15748:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ABB34B71d01
+r/r 15749:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/93B45424d01
+r/r 15750:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E83E0925d01
+r/r 15751:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/902332D3d01
+r/r 15752:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BB062C82d01
+r/r 15753:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/19245A30d01
+r/r 15754:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B592066Dd01
+r/r 15755:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7F9F3ED1d01
+r/r 15756:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C12C3073d01
+r/r 15757:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/19C7487Ad01
+r/r 15758:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FA544B80d01
+r/r 15759:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/63E6B155d01
+r/r 15760:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5DA789CFd01
+r/r 15761:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FB520318d01
+r/r 15762:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/54ED6603d01
+r/r 15763:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/2A010A4Ed01
+r/r 15764:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C3BEA5B5d01
+r/r 15765:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9203AFA7d01
+r/r 15766:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/89319159d01
+r/r 15767:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/909BD915d01
+r/r 15768:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9C54E7A5d01
+r/r 15769:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/25F87294d01
+r/r 15770:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BF7223A2d01
+r/r 15747:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8D20A121d01
+r/r 15772:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B5925AA1d01
+r/r 15773:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/561721AEd01
+r/r 15774:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/76E130E1d01
+r/r 15775:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/732C9537d01
+r/r 15776:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D69272CBd01
+r/r 15777:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9E892B6Dd01
+r/r 15778:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/1C876C4Bd01
+r/r 15779:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/02182DECd01
+r/r 15780:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/1EB04A8Fd01
+r/r 15781:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/76FE7EDEd01
+r/r 15782:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/92FD3997d01
+r/r 15783:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9895A1FCd01
+r/r 15784:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/757480B7d01
+r/r 15785:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D0F10498d01
+r/r 15786:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C9E1059Bd01
+r/r 15787:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B8BF7EF7d01
+r/r 15788:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/878F313Ed01
+r/r 15789:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4CF8342Cd01
+r/r 15771:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/88CF087Bd01
+r/r 15790:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3203C548d01
+r/r 15792:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3F840E0Ad01
+r/r 15793:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/45E50D0Dd01
+r/r 15794:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8B2F7F4Cd01
+r/r 15791:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/585117C6d01
+r/r 15796:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9ABC98A2d01
+r/r 15797:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/98EF080Fd01
+r/r 15798:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3E2267B2d01
+r/r 15799:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4D84F890d01
+r/r 15800:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/16F830D4d01
+r/r 15801:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/430D3F19d01
+r/r 15722:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E6A5BFF4d01
+r/r 15803:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/11CC71E3d01
+r/r 15804:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/206560B9d01
+r/r 15805:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B09044CEd01
+r/r 15806:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/CF3BA17Ed01
+r/r 15807:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5EAC9BD4d01
+r/r 15808:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4C9909F9d01
+r/r 15810:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/2B7F3676d01
+r/r 15809:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8A65F491d01
+r/r 15811:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A1C2BBCBd01
+r/r 15802:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C26EF36Ed01
+r/r 15812:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C809F37Ed01
+r/r 15814:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7CA509E2d01
+r/r 15816:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7562382Bd01
+r/r 15813:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/234EBF5Bd01
+r/r 15817:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FEEEE3EAd01
+r/r 15818:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8ECEA754d01
+r/r 15819:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/52ADA6C3d01
+r/r 15820:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A64C368Cd01
+r/r 15821:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9BDD12A1d01
+r/r 15463:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ACF3D721d01
+r/r 15823:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/2D2F0A5Ad01
+r/r 15824:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8FD1202Fd01
+r/r 15825:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6FEAF226d01
+r/r 15826:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8C807E07d01
+r/r 15822:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/2D2E0A5Ad01
+r/r 15829:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C92813EBd01
+r/r 15830:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/884A5289d01
+r/r 15831:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DE613319d01
+r/r 15832:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FDCC05E3d01
+r/r 15833:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/43DBAB26d01
+r/r 15827:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4172759Fd01
+r/r 15834:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/2993C5C5d01
+r/r 15828:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5F0C3052d01
+r/r 15836:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7F073737d01
+r/r 15837:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C37D932Ad01
+r/r 15835:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E559D6A0d01
+r/r 15542:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5892D3EDd01
+r/r 15399:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7DD65065d01
+r/r 15842:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C6750B87d01
+r/r 15513:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C3057ADDd01
+r/r 15848:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/1C50B4E1d01
+r/r 15555:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/_CACHE_MAP_
+r/r 15844:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A5E50D2Cd01
+r/r 15856:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FFE4B15Bd01
+r/r 15859:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0C33E346d01
+r/r 15863:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DA4EBB9Cd01
+r/r 15865:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B52CD67Dd01
+r/r 15868:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9938962Ad01
+r/r 15857:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C2E949A7d01
+r/r 15871:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/813D843Ad01
+r/r 15872:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FF5C8490d01
+r/r 15876:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6E11E1D9d01
+r/r 15877:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/92D2BAAFd01
+r/r 15879:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DF98C6EEd01
+r/r 15881:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BED56F2Ed01
+r/r 15882:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BEBD6F2Ed01
+r/r 15886:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4B6F6947d01
+r/r 15891:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0FC93EACd01
+r/r 15874:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DCE82FB6d01
+r/r 15892:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AD483F58d01
+r/r 15896:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D4ABAE9Dd01
+r/r 15901:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/065783FAd01
+r/r 15902:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/507B8CECd01
+r/r 15903:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0C222A59d01
+r/r 15904:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/52599AACd01
+r/r 15907:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/1C83EFCAd01
+r/r 15908:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BFBD2745d01
+r/r 15909:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F9625941d01
+r/r 15911:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/714C2EB6d01
+r/r 15917:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9A8E7AD7d01
+r/r 15919:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A1AE32A9d01
+r/r 15921:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ECB2951Bd01
+r/r 15922:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8ECEBB5Cd01
+r/r 15925:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/EA5E4311d01
+r/r 15923:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C2F5A9E3d01
+r/r 15931:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ECDB8C03d01
+r/r 15930:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/49554392d01
+r/r 15932:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4397FB14d01
+r/r 15934:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/CF306BB5d01
+r/r 15939:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F60Ad01
+r/r 15940:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BF3A9B0Ed01
+r/r 15948:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F63Ad01
+r/r 15951:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F6DAd01
+r/r 15937:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F36Ad01
+r/r 15949:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F30Ad01
+r/r 15956:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F31Ad01
+r/r 15962:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/43B93B1Cd01
+r/r 15964:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8B5B38FCd01
+r/r 15953:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/052D9B60d01
+r/r 15734:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B5920242d01
+r/r 15958:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F45BE386d01
+r/r 15971:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D4FF836Dd01
+r/r 15972:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D4FE836Dd01
+r/r 15973:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D4F8836Dd01
+r/r 15975:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9E1300ABd01
+r/r 15978:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/465D7B04d01
+r/r 15979:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/910E01D7d01
+r/r 15982:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/47386CAEd01
+r/r 15985:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/91DBCBE0d01
+r/r 15986:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/60AFE997d01
+r/r 15987:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DF391DC5d01
+r/r 15992:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/942574F2d01
+r/r 16000:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/41CE91F3d01
+r/r 16002:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/22E28ECBd01
+r/r 15954:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4FA4D44Ad01
+r/r 16008:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/38410BAEd01
+r/r 16012:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AF4BF491d01
+r/r 16017:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B077932Ed01
+r/r 16018:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5B1BC032d01
+r/r 16010:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/218FD385d01
+r/r 16019:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/EEAA3E24d01
+r/r 16021:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BEFA6E09d01
+r/r 16023:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6DBE0186d01
+r/r 16022:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/46DF7044d01
+r/r 16031:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E414EC0Ed01
+r/r 16038:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7E7C54A1d01
+r/r 16039:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3BED4F00d01
+r/r 16040:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/88E9E8AAd01
+r/r 16041:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3BE94F00d01
+r/r 16042:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3BE84F00d01
+r/r 16044:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/58BB2D52d01
+r/r 15664:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F18E6BA0d01
+r/r 16049:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D54B089Fd01
+r/r 16051:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/CCC6604Bd01
+r/r 16052:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/EADC31C0d01
+r/r 16053:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BCC3643Ad01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C92813EBd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/884A5289d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DE613319d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/43DBAB26d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4172759Fd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/2993C5C5d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5F0C3052d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7F073737d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5892D3EDd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7DD65065d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/1C50B4E1d01
+r/r 15854:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0B11CA34d01
+r/r 15858:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/341E0BD1d01
+r/r 15860:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/328A3C20d01
+r/r 15866:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/831BB990d01
+r/r 15867:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8908193Ed01
+r/r 15869:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6BCA3B75d01
+r/r 15873:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/38A1C25Bd01
+r/r 15878:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6E31E1D9d01
+r/r 15880:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/35CAEB8Cd01
+r/r 15883:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/585F2970d01
+r/r 15885:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BEEC6F2Ed01
+r/r 15887:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5FDB6DE8d01
+r/r 15889:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BE656F2Ed01
+r/r 15890:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F21AD6F7d01
+r/r 15898:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/911AA6CDd01
+r/r 15899:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/370C78FDd01
+r/r 15900:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AD4E3F58d01
+r/r 15912:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5A670439d01
+r/r 15913:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/170D8257d01
+r/r 15916:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D4BE2003d01
+r/r 15915:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5A76D4F8d01
+r/r 15918:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0490BEF5d01
+r/r 15928:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B373A975d01
+r/r 15402:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C1FAD5AFd01
+r/r 15843:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F61Ad01
+r/r 15945:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/08AAE737d01
+r/r 15944:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4737FCD7d01
+r/r 15943:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/2FA22D8Dd01
+r/r 15950:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F35Ad01
+r/r 15961:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DE78C01Dd01
+r/r 15968:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6C52D0C6d01
+r/r 15970:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D4F9836Dd01
+r/r 15981:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AB3FDAB3d01
+r/r 15989:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/5A450E1Fd01
+r/r 15993:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D98634A1d01
+r/r 15994:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/40F9FB82d01
+r/r 15995:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/99FF32F7d01
+r/r 15997:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D192167Bd01
+r/r 15998:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DAF7F211d01
+r/r 15983:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6FFA3DC2d01
+r/r 16001:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/62C5BAE8d01
+r/r 16004:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/760ABBBAd01
+r/r 16005:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/201C4485d01
+r/r 16006:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E8DEEA19d01
+r/r 16011:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/76C8F276d01
+r/r 16014:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/16F904C5d01
+r/r 16015:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/05B226B4d01
+r/r 16016:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/65FFE8EEd01
+r/r 16024:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/448D0994d01
+r/r 15839:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/9AF27F07d01
+r/r 16030:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6EB21167d01
+r/r 16035:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/708F8D63d01
+r/r 16032:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7FC87151d01
+r/r 16037:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3BEE4F00d01
+r/r 16048:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6F37DCBAd01
+r/r 16054:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/653AAEA9d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6C163C74d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A6650D36d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/92D010C7d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E25BB58Ad01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ED1B158Ad01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B8FEC5B8d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/762AF1EAd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DCC82FB6d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AD4F3F58d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0568C3FCd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8E44C047d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0ED93772d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/547D2B1Cd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BC9A2B5Cd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FF6B742Dd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E37AB6B7d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/848E59B1d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DF910552d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/97B47B92d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/93A9D9D6d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/86CD8D79d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/20CD4465d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F67Ad01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F62Ad01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F37Ad01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/355ED8CCd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3A5F86A1d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/05D67919d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/776E8B47d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7595966Cd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B0254A73d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4A14D734d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F1A740CFd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C79207F3d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C5691AD8d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/57B36E03d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F7628AD7d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D27C21BEd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/89A0EA4Ed01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/492CC2DAd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FFC69D50d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/43769B52d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/03AD54FEd01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/CBA4EEB9d01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8018213Ed01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7EC6A58Ad01
+r/- * 0:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3BEF4F00d01
+r/r 15434:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/268A75B8d01
+r/r 15864:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/92D010C7d01
+r/r 15988:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C79207F3d01
+r/r 16033:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8018213Ed01
+r/r 15914:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/BC9A2B5Cd01
+r/r 16043:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3BEF4F00d01
+r/r 15933:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/20CD4465d01
+r/r 15927:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DF910552d01
+r/r 15935:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/93A9D9D6d01
+r/r 15895:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/AD4F3F58d01
+r/r 15976:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/776E8B47d01
+r/r 15897:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0568C3FCd01
+r/r 16020:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/43769B52d01
+r/r 15984:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F1A740CFd01
+r/r 15996:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/F7628AD7d01
+r/r 15875:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/ED1B158Ad01
+r/r 15965:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/355ED8CCd01
+r/r 15884:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B8FEC5B8d01
+r/r 15894:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E37AB6B7d01
+r/r 15847:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/CBA4EEB9d01
+r/r 15906:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/0ED93772d01
+r/r 15905:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/8E44C047d01
+r/r 15893:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DCC82FB6d01
+r/r 15910:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/547D2B1Cd01
+r/r 16007:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/492CC2DAd01
+r/r 15999:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/D27C21BEd01
+r/r 15861:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/6C163C74d01
+r/r 15920:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FF6B742Dd01
+r/r 15739:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F37Ad01
+r/r 15969:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/4A14D734d01
+r/r 15977:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7595966Cd01
+r/r 15991:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/57B36E03d01
+r/r 15870:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/E25BB58Ad01
+r/r 15851:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/268CE34Ed01
+r/r 15926:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/848E59B1d01
+r/r 15938:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F67Ad01
+r/r 16013:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/FFC69D50d01
+r/r 15974:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/05D67919d01
+r/r 16034:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/7EC6A58Ad01
+r/r 15929:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/97B47B92d01
+r/r 15888:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/762AF1EAd01
+r/r 15862:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/A6650D36d01
+r/r 15941:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/DDF5F62Ad01
+r/r 15990:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/C5691AD8d01
+r/r 15556:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/_CACHE_001_
+r/r 15936:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/86CD8D79d01
+r/r 16025:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/03AD54FEd01
+r/r 15980:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/B0254A73d01
+r/r 16009:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/89A0EA4Ed01
+r/r 15967:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3A5F86A1d01
+r/r 16050:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/Cache/3ED7C401d01
+r/r 15559:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/urlclassifier3.sqlite
+r/r 15560:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/signons3.txt
+r/r 15563:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/urlclassifierkey3.txt
+d/d 15546:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarkbackups
+r/r 15625:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarkbackups/bookmarks-2008-12-28.json
+r/r 15503:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarkbackups/bookmarks-2008-12-30.json
+r/r 15467:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarkbackups/bookmarks-2008-12-31.json
+r/r 15849:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarkbackups/bookmarks-2009-01-01.json
+r/r 16029:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/bookmarkbackups/bookmarks-2009-01-07.json
+r/r 15566:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/downloads.sqlite
+r/r 15590:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/pluginreg.dat
+r/r * 16026(realloc):	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/localstore-1.rdf
+r/r 16046:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/blocklist.xml
+r/r * 16003(realloc):	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/places.sqlite-journal
+r/r * 16055:	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/urlclassifier3.sqlite-journal
+r/r * 15917(realloc):	home/ubuntu/.mozilla/firefox/ylaw3s7x.default/sessionstore-1.js
+d/d 15538:	home/ubuntu/.mozilla/extensions
+d/d 15539:	home/ubuntu/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+d/d 15606:	home/ubuntu/.cache
+d/d 15607:	home/ubuntu/.cache/tracker
+r/r 15612:	home/ubuntu/.cache/tracker/file-meta.db
+r/r 15613:	home/ubuntu/.cache/tracker/file-contents.db
+r/r 15614:	home/ubuntu/.cache/tracker/email-contents.db
+r/r 15615:	home/ubuntu/.cache/tracker/email-meta.db
+r/r 15616:	home/ubuntu/.cache/tracker/file-index.db
+r/r 15617:	home/ubuntu/.cache/tracker/file-update-index.db
+r/r 15618:	home/ubuntu/.cache/tracker/email-index.db
+d/d * 15607(realloc):	home/ubuntu/.cache/.wh..wh.tracker.0005
+d/d 15530:	home/ubuntu/.thumbnails
+d/d 15541:	home/ubuntu/.thumbnails/normal
+r/r * 16027(realloc):	home/ubuntu/.thumbnails/normal/9c01d1e07d34a1283677a7ca6c3cd35c.png.742PNU
+r/r 15626:	home/ubuntu/.thumbnails/normal/a0eec94e8572f15e4a6b78d1891da030.png
+r/r 15656:	home/ubuntu/.thumbnails/normal/1b493512689d57e05df87e49c933b957.png
+r/r 15657:	home/ubuntu/.thumbnails/normal/010ef2ffbfb91cd4f6a913286d4af064.png
+r/r 15658:	home/ubuntu/.thumbnails/normal/680fdbb73e91fad2c92dd8b1fb8b7d28.png
+r/r 15815:	home/ubuntu/.thumbnails/normal/b0101c57b844871e80a86d73ba07aa01.png
+r/r 15660:	home/ubuntu/.thumbnails/normal/7432e1ca5b6d12e5fcea3eb585d02219.png
+r/r 15509:	home/ubuntu/.thumbnails/normal/f762e37bd4500c29dbffa4176c5e6e0f.png
+r/r 15955:	home/ubuntu/.thumbnails/normal/bff37bae6cfa7b1c184df59c6a94ed7a.png
+r/r 15846:	home/ubuntu/.thumbnails/normal/ed7f28a4fad0af1f8288fc5dbc0c0c27.png
+r/r 15840:	home/ubuntu/.thumbnails/normal/c739d975aec5a1ddb50aa98bfcaac83e.png
+r/r 15795:	home/ubuntu/.thumbnails/normal/176c9c6a733100bb43a4566aa886b211.png
+r/r 15855:	home/ubuntu/.thumbnails/normal/2a2228524216ac95fc0016bb3a1fc7b7.png
+r/r 16027:	home/ubuntu/.thumbnails/normal/9c01d1e07d34a1283677a7ca6c3cd35c.png
+r/r 15957:	home/ubuntu/.thumbnails/normal/8a0042cc7a589ad6eaa67772d9b8130f.png
+d/d 23341:	home/ubuntu/.thumbnails/fail
+d/d 23342:	home/ubuntu/.thumbnails/fail/gnome-thumbnail-factory
+r/r * 23343(realloc):	home/ubuntu/.thumbnails/fail/gnome-thumbnail-factory/be57d95c521c33adbdb0b6bde225b37f.png.WCWTMU
+r/r 23343:	home/ubuntu/.thumbnails/fail/gnome-thumbnail-factory/be57d95c521c33adbdb0b6bde225b37f.png
+r/r 15624:	home/ubuntu/.sudo_as_admin_successful
+d/d 15489:	home/ubuntu/.ssh
+r/r 15676:	home/ubuntu/.ssh/known_hosts
+r/r 15677:	home/ubuntu/.bash_history
+d/d 23217:	home/ubuntu/.evolution
+d/d 23221:	home/ubuntu/.evolution/cache
+d/d 23222:	home/ubuntu/.evolution/cache/tmp
+r/r 23223:	home/ubuntu/.evolution/cache/tmp/mail.log.AWEIOK
+r/r 23224:	home/ubuntu/.evolution/secmod.db
+r/r 23225:	home/ubuntu/.evolution/cert8.db
+r/r 23226:	home/ubuntu/.evolution/key3.db
+d/d 23227:	home/ubuntu/.evolution/calendar
+d/d 23228:	home/ubuntu/.evolution/calendar/config
+d/d 23236:	home/ubuntu/.evolution/calendar/local
+d/d 23237:	home/ubuntu/.evolution/calendar/local/system
+r/r * 23277(realloc):	home/ubuntu/.evolution/calendar/local/system/calendar.ics~
+r/r 23277:	home/ubuntu/.evolution/calendar/local/system/calendar.ics
+d/d 23229:	home/ubuntu/.evolution/tasks
+d/d 23230:	home/ubuntu/.evolution/tasks/config
+d/d 23242:	home/ubuntu/.evolution/tasks/local
+d/d 23243:	home/ubuntu/.evolution/tasks/local/system
+r/r * 23244(realloc):	home/ubuntu/.evolution/tasks/local/system/tasks.ics~
+r/r 23244:	home/ubuntu/.evolution/tasks/local/system/tasks.ics
+d/d 23231:	home/ubuntu/.evolution/memos
+d/d 23232:	home/ubuntu/.evolution/memos/config
+d/d 23239:	home/ubuntu/.evolution/memos/local
+d/d 23240:	home/ubuntu/.evolution/memos/local/system
+r/r * 23102(realloc):	home/ubuntu/.evolution/memos/local/system/journal.ics~
+r/r 23102:	home/ubuntu/.evolution/memos/local/system/journal.ics
+d/d 23233:	home/ubuntu/.evolution/mail
+d/d 23234:	home/ubuntu/.evolution/mail/local
+r/r 23235:	home/ubuntu/.evolution/mail/local/Inbox
+r/r 23245:	home/ubuntu/.evolution/mail/local/folders.db
+r/r 23247:	home/ubuntu/.evolution/mail/local/Inbox.ibex.index
+r/r 23246:	home/ubuntu/.evolution/mail/local/Inbox.cmeta
+r/r 23248:	home/ubuntu/.evolution/mail/local/Inbox.ibex.index.data
+r/r 23249:	home/ubuntu/.evolution/mail/local/Drafts
+r/r 23253:	home/ubuntu/.evolution/mail/local/Outbox
+r/r 23250:	home/ubuntu/.evolution/mail/local/Drafts.cmeta
+r/r 23251:	home/ubuntu/.evolution/mail/local/Drafts.ibex.index
+r/r 23252:	home/ubuntu/.evolution/mail/local/Drafts.ibex.index.data
+r/r 23257:	home/ubuntu/.evolution/mail/local/Sent
+r/r 23254:	home/ubuntu/.evolution/mail/local/Outbox.cmeta
+r/r 23255:	home/ubuntu/.evolution/mail/local/Outbox.ibex.index
+r/r 23256:	home/ubuntu/.evolution/mail/local/Outbox.ibex.index.data
+r/r 23261:	home/ubuntu/.evolution/mail/local/Templates
+r/r 23258:	home/ubuntu/.evolution/mail/local/Sent.cmeta
+r/r 23259:	home/ubuntu/.evolution/mail/local/Sent.ibex.index
+r/r 23260:	home/ubuntu/.evolution/mail/local/Sent.ibex.index.data
+r/r 23263:	home/ubuntu/.evolution/mail/local/Templates.ibex.index
+r/r 23262:	home/ubuntu/.evolution/mail/local/Templates.cmeta
+r/r 23264:	home/ubuntu/.evolution/mail/local/Templates.ibex.index.data
+r/d * 23266(realloc):	home/ubuntu/.evolution/mail/local/folders.db-journal
+r/r * 23265(realloc):	home/ubuntu/.evolution/categories.xml.2QG3MU
+r/r 23265:	home/ubuntu/.evolution/categories.xml
+r/r 15924:	home/ubuntu/.recently-used.xbel
+r/r * 15838:	home/ubuntu/.Xauthority-c
+r/r * 15838:	home/ubuntu/.Xauthority-l
+d/d 11:	lost+found
+r/r 12:	.wh..wh.aufs
+d/d 7681:	.wh..wh.plnk
+r/r 7709:	.wh..wh.plnk/1162.7709
+r/r 7742:	.wh..wh.plnk/1019.7742
+r/r 7730:	.wh..wh.plnk/1028.7730
+r/r 7740:	.wh..wh.plnk/7402.7740
+d/d 23041:	.wh..wh..tmp
+d/d 7682:	rofs
+d/d 23042:	etc
+r/r 23043:	etc/localtime
+r/r 23047:	etc/passwd-
+r/r 23048:	etc/gshadow-
+r/r 23049:	etc/passwd
+r/r 23105:	etc/shadow
+d/d 23062:	etc/gdm
+r/r * 23055(realloc):	etc/gdm/sedhFospw
+r/r 23055:	etc/gdm/gdm.conf
+r/r 23050:	etc/group-
+r/r 23346:	etc/gshadow
+r/r 23054:	etc/shadow-
+r/r 23278:	etc/group
+r/r 23088:	etc/sudoers
+d/d 23046:	etc/alternatives
+l/l 23209:	etc/alternatives/xulrunner-addons-flashplugin
+l/l 23084:	etc/alternatives/libgksu-gconf-defaults
+l/l 23193:	etc/alternatives/iceape-flashplugin
+l/l 23195:	etc/alternatives/iceweasel-flashplugin
+l/l 23199:	etc/alternatives/mozilla-flashplugin
+l/l 23201:	etc/alternatives/firefox-flashplugin
+l/l 23203:	etc/alternatives/xulrunner-flashplugin
+l/l 23205:	etc/alternatives/midbrowser-flashplugin
+l/l * 23084(realloc):	etc/alternatives/libgksu-gconf-defaults.dpkg-tmp
+r/r 23045:	etc/environment
+r/r 23057:	etc/fstab
+d/d 23058:	etc/rcS.d
+r/r 12:	etc/rcS.d/.wh.S20checkroot.sh
+r/r 12:	etc/rcS.d/.wh.S37apparmor
+d/d 23059:	etc/default
+r/r 23060:	etc/default/locale
+r/r * 23077(realloc):	etc/default/apportQLI2XR
+r/r 23077:	etc/default/apport
+r/r 23061:	etc/locale.gen
+r/r 23064:	etc/hostname
+r/r 23065:	etc/hosts
+d/d 23066:	etc/init.d
+r/r * 23052(realloc):	etc/init.d/usplashXBNoRD
+r/r 23052:	etc/init.d/usplash
+d/d 23068:	etc/X11
+r/r 23069:	etc/X11/xorg.conf.20081228131059
+r/r * 23104(realloc):	etc/X11/xorg.conf.dpkg-new
+r/r 23070:	etc/X11/xorg.conf
+r/r 23063:	etc/X11/xorg.conf.20081228210639
+r/r 23056:	etc/X11/xorg.conf.20081229213137
+r/r 23053:	etc/X11/xorg.conf.20081230202043
+r/r 23051:	etc/X11/xorg.conf.20090106185952
+d/d 23071:	etc/network
+r/r 23072:	etc/network/interfaces
+d/d 23073:	etc/event.d
+r/r * 23075(realloc):	etc/event.d/tty6tyEfht
+r/r 23104:	etc/event.d/tty1
+r/r 23101:	etc/event.d/tty2
+r/r 23089:	etc/event.d/tty3
+r/r 23067:	etc/event.d/tty4
+r/r 23074:	etc/event.d/tty5
+r/r 23075:	etc/event.d/tty6
+d/d 23080:	etc/pam.d
+r/r * 23076(realloc):	etc/pam.d/loginVDRUJt
+r/r 23076:	etc/pam.d/login
+d/d 23082:	etc/rc0.d
+r/r 12:	etc/rc0.d/.wh.K25hwclock.sh
+d/d 23083:	etc/rc6.d
+r/r 12:	etc/rc6.d/.wh.K25hwclock.sh
+d/d 23085:	etc/xdg
+d/d 23086:	etc/xdg/autostart
+r/r 12:	etc/xdg/autostart/.wh.tracker-applet.desktop
+r/r 12:	etc/xdg/autostart/.wh.trackerd.desktop
+r/r 12:	etc/xdg/autostart/.wh.jockey-gtk.desktop
+d/d 23087:	etc/apt
+r/r * 23078(realloc):	etc/apt/sources.list.new
+r/r * 12(realloc):	etc/apt/.wh.sources.list
+r/r 23079:	etc/apt/sources.list~
+r/r 23078:	etc/apt/sources.list
+d/d 23090:	etc/PolicyKit
+r/r 23091:	etc/PolicyKit/PolicyKit.conf
+d/d 23092:	etc/apparmor.d
+r/r 12:	etc/apparmor.d/.wh.gdm-guest-session
+r/r 23344:	etc/mtab
+d/d 23093:	etc/udev
+d/d 23095:	etc/udev/rules.d
+r/r 23096:	etc/udev/rules.d/70-persistent-net.rules
+r/r 23097:	etc/udev/rules.d/70-persistent-cd.rules
+l/d * 23098(realloc):	etc/udev/rules.d/.is-writeable
+d/d 23094:	etc/cups
+d/d 23099:	etc/cups/ppd
+d/d 23100:	etc/cups/ssl
+r/r 12:	etc/.wh.nologin
+r/r 23238:	etc/resolv.conf
+r/r * 23344(realloc):	etc/mtab.tmp
+r/r 23212:	etc/ld.so.cache
+r/r * 23238(realloc):	etc/resolv.conf.tmp
+d/d 23044:	cdrom
+d/d 7683:	var
+d/d 7684:	var/cache
+d/d 7685:	var/cache/debconf
+r/r * 7798(realloc):	var/cache/debconf/templates.dat-new
+r/r * 7915(realloc):	var/cache/debconf/config.dat-old
+r/r 7713:	var/cache/debconf/config.dat
+r/r 7687:	var/cache/debconf/passwords.dat
+r/r * 12(realloc):	var/cache/debconf/.wh.templates.dat
+r/r * 7744(realloc):	var/cache/debconf/templates.dat-old
+r/r 7798:	var/cache/debconf/templates.dat
+d/d 7766:	var/cache/cups
+d/d 7767:	var/cache/cups/rss
+r/r 7792:	var/cache/cups/remote.cache
+r/r 7793:	var/cache/cups/job.cache
+d/d 7771:	var/cache/hald
+r/r * 7772(realloc):	var/cache/hald/fdi-cache~
+r/r 7772:	var/cache/hald/fdi-cache
+d/d 7806:	var/cache/apt
+r/r 7808:	var/cache/apt/srcpkgcache.bin
+r/r 7799:	var/cache/apt/pkgcache.bin
+d/d 7813:	var/cache/apt/archives
+d/d 7835:	var/cache/apt/archives/partial
+r/r * 7839(realloc):	var/cache/apt/archives/partial/gnash_0.8.4-0ubuntu1_i386.deb
+r/r * 7840(realloc):	var/cache/apt/archives/partial/mozilla-plugin-gnash_0.8.4-0ubuntu1_i386.deb
+r/r 7836:	var/cache/apt/archives/libboost-date-time1.34.1_1.34.1-11ubuntu1_i386.deb
+r/r 7837:	var/cache/apt/archives/libboost-thread1.34.1_1.34.1-11ubuntu1_i386.deb
+r/r 7838:	var/cache/apt/archives/gnash-common_0.8.4-0ubuntu1_i386.deb
+r/r 7839:	var/cache/apt/archives/gnash_0.8.4-0ubuntu1_i386.deb
+r/r 7840:	var/cache/apt/archives/mozilla-plugin-gnash_0.8.4-0ubuntu1_i386.deb
+r/r * 12(realloc):	var/cache/apt/.wh.pkgcache.bin
+d/d 7809:	var/cache/fontconfig
+r/r * 7811(realloc):	var/cache/fontconfig/e13b20fdb08344e0e664864cc2ede53d-x86.cache-2.NEW
+r/d * 7810(realloc):	var/cache/fontconfig/e13b20fdb08344e0e664864cc2ede53d-x86.cache-2.LCK
+r/r 7811:	var/cache/fontconfig/e13b20fdb08344e0e664864cc2ede53d-x86.cache-2
+d/d 7881:	var/cache/man
+d/d 7887:	var/cache/man/cs
+r/r 7930:	var/cache/man/cs/index.db
+r/r * 7831(realloc):	var/cache/man/cs/8911
+r/r 7886:	var/cache/man/index.db
+d/d 7888:	var/cache/man/de
+r/r 7926:	var/cache/man/de/index.db
+r/r * 7831(realloc):	var/cache/man/de/8911
+d/d 7889:	var/cache/man/es
+r/r 7871:	var/cache/man/es/index.db
+r/r * 7831(realloc):	var/cache/man/es/8911
+d/d 7890:	var/cache/man/fi
+r/r 7932:	var/cache/man/fi/index.db
+r/r * 7831(realloc):	var/cache/man/fi/8911
+d/d 7891:	var/cache/man/fr
+r/r 7934:	var/cache/man/fr/index.db
+r/r * 7831(realloc):	var/cache/man/fr/8911
+d/d 7892:	var/cache/man/fr.ISO8859-1
+r/r 7873:	var/cache/man/fr.ISO8859-1/index.db
+r/r * 7831(realloc):	var/cache/man/fr.ISO8859-1/8911
+d/d 7893:	var/cache/man/fr.UTF-8
+r/r 7868:	var/cache/man/fr.UTF-8/index.db
+r/r * 7831(realloc):	var/cache/man/fr.UTF-8/8911
+d/d 7894:	var/cache/man/gl
+r/r 7931:	var/cache/man/gl/index.db
+r/r * 7831(realloc):	var/cache/man/gl/8911
+d/d 7895:	var/cache/man/hu
+r/r 7927:	var/cache/man/hu/index.db
+r/r * 7831(realloc):	var/cache/man/hu/8911
+d/d 7896:	var/cache/man/id
+r/r 7852:	var/cache/man/id/index.db
+r/r * 7831(realloc):	var/cache/man/id/8911
+d/d 7897:	var/cache/man/it
+r/r 7920:	var/cache/man/it/index.db
+r/r * 7831(realloc):	var/cache/man/it/8911
+d/d 7898:	var/cache/man/it.ISO8859-1
+r/r 7876:	var/cache/man/it.ISO8859-1/index.db
+r/r * 7831(realloc):	var/cache/man/it.ISO8859-1/8911
+d/d 7899:	var/cache/man/it.UTF-8
+r/r 7929:	var/cache/man/it.UTF-8/index.db
+r/r * 7831(realloc):	var/cache/man/it.UTF-8/8911
+d/d 7900:	var/cache/man/ja
+r/r 7867:	var/cache/man/ja/index.db
+r/r * 7831(realloc):	var/cache/man/ja/8911
+d/d 7901:	var/cache/man/ko
+r/r 7919:	var/cache/man/ko/index.db
+r/r * 7831(realloc):	var/cache/man/ko/8911
+d/d 7902:	var/cache/man/pa
+r/r 7860:	var/cache/man/pa/index.db
+r/r * 7831(realloc):	var/cache/man/pa/8911
+d/d 7903:	var/cache/man/pl
+r/r 7866:	var/cache/man/pl/index.db
+r/r * 7831(realloc):	var/cache/man/pl/8911
+d/d 7904:	var/cache/man/pl.ISO8859-2
+r/r 7875:	var/cache/man/pl.ISO8859-2/index.db
+r/r * 7831(realloc):	var/cache/man/pl.ISO8859-2/8911
+d/d 7905:	var/cache/man/pl.UTF-8
+r/r 7861:	var/cache/man/pl.UTF-8/index.db
+r/r * 7831(realloc):	var/cache/man/pl.UTF-8/8911
+d/d 7906:	var/cache/man/pt_BR
+r/r 7933:	var/cache/man/pt_BR/index.db
+r/r * 7831(realloc):	var/cache/man/pt_BR/8911
+d/d 7907:	var/cache/man/ru
+r/r 7858:	var/cache/man/ru/index.db
+r/r * 7831(realloc):	var/cache/man/ru/8911
+d/d 7908:	var/cache/man/sv
+r/r 7928:	var/cache/man/sv/index.db
+r/r * 7831(realloc):	var/cache/man/sv/8911
+d/d 7909:	var/cache/man/tr
+r/r 7925:	var/cache/man/tr/index.db
+r/r * 7831(realloc):	var/cache/man/tr/8911
+d/d 7910:	var/cache/man/zh_CN
+r/r 7923:	var/cache/man/zh_CN/index.db
+r/r * 7831(realloc):	var/cache/man/zh_CN/8911
+d/d 7911:	var/cache/man/zh_TW
+r/r 7853:	var/cache/man/zh_TW/index.db
+r/r * 7831(realloc):	var/cache/man/zh_TW/8911
+d/d 7912:	var/cache/man/oldlocal
+r/r * 7831(realloc):	var/cache/man/oldlocal/8911
+d/d 7913:	var/cache/man/local
+r/r * 7831(realloc):	var/cache/man/local/8911
+d/d 7935:	var/cache/man/X11R6
+d/d 7936:	var/cache/man/cat1
+d/d 7937:	var/cache/man/cat2
+d/d 7938:	var/cache/man/cat3
+d/d 7939:	var/cache/man/cat4
+d/d 7940:	var/cache/man/cat5
+d/d 7941:	var/cache/man/cat6
+d/d 7942:	var/cache/man/cat7
+d/d 7943:	var/cache/man/cat8
+d/d 7944:	var/cache/man/fsstnd
+d/d 7945:	var/cache/man/opt
+r/r * 7831(realloc):	var/cache/man/8911
+d/d 7921:	var/cache/ldconfig
+r/r * 7922(realloc):	var/cache/ldconfig/aux-cache~
+r/r 7922:	var/cache/ldconfig/aux-cache
+d/d 7689:	var/log
+r/r 7690:	var/log/faillog
+r/r 7691:	var/log/lastlog
+r/r 7842:	var/log/dpkg.log
+r/r 7731:	var/log/casper.log
+r/r 7963:	var/log/wtmp
+d/d 7736:	var/log/fsck
+r/r 7737:	var/log/fsck/checkfs
+r/r 7721:	var/log/udev
+r/r 7745:	var/log/mail.warn
+r/r 7796:	var/log/dmesg.0
+r/r 7746:	var/log/user.log
+r/r 7738:	var/log/dmesg
+r/r 7747:	var/log/daemon.log
+r/r 7748:	var/log/messages
+r/r 7749:	var/log/debug
+r/r 7750:	var/log/auth.log
+r/r 7751:	var/log/mail.err
+r/r 7752:	var/log/syslog
+r/r 7753:	var/log/mail.log
+r/r 7754:	var/log/kern.log
+r/r 7755:	var/log/lpr.log
+r/r 7756:	var/log/mail.info
+d/d 7757:	var/log/news
+r/r 7758:	var/log/news/news.crit
+r/r 7759:	var/log/news/news.err
+r/r 7760:	var/log/news/news.notice
+d/d 7769:	var/log/ConsoleKit
+r/r 7770:	var/log/ConsoleKit/history
+r/r 7773:	var/log/wpa_supplicant.log
+d/d 7778:	var/log/gdm
+r/r 7957:	var/log/gdm/:0.log
+r/r 7955:	var/log/gdm/:0.log.1
+r/r 7803:	var/log/gdm/:0.log.2
+r/r 7800:	var/log/gdm/:0.log.3
+r/r 7779:	var/log/gdm/:0.log.4
+r/r 7780:	var/log/Xorg.0.log
+d/d 7789:	var/log/cups
+r/r 7814:	var/log/cups/access_log
+r/r * 7958:	var/log/cups/access_log.1
+r/r 7817:	var/log/cups/access_log.1.gz
+r/r 7959:	var/log/cups/access_log.2.gz
+r/r 7723:	var/log/dmesg.2.gz
+d/d 7841:	var/log/apt
+r/r 7948:	var/log/apt/term.log
+r/r * 12(realloc):	var/log/apt/.wh.term.log
+r/r * 7842(realloc):	var/log/apt/term.log.1
+r/r 7962:	var/log/apt/term.log.1.gz
+r/r 7801:	var/log/Xorg.0.log.old
+r/r 7961:	var/log/syslog.2.gz
+r/r 7726:	var/log/dmesg.3.gz
+r/r 7954:	var/log/syslog.0
+r/r 7790:	var/log/syslog.3.gz
+r/r 7795:	var/log/dmesg.4.gz
+r/r 7735:	var/log/wtmp.1
+r/r 7965:	var/log/btmp.1
+r/r 7729:	var/log/dpkg.log.1
+r/r 7964:	var/log/wpa_supplicant.log.2.gz
+r/r * 7752(realloc):	var/log/syslog.new
+r/r 7966:	var/log/btmp
+r/r 7831:	var/log/syslog.1.gz
+r/r 7722:	var/log/dmesg.1.gz
+r/r 7960:	var/log/wpa_supplicant.log.3.gz
+r/r 7832:	var/log/wpa_supplicant.log.1.gz
+r/r * 12(realloc):	var/log/.wh.syslog
+d/d 7692:	var/lib
+d/d 7693:	var/lib/dpkg
+d/d 7694:	var/lib/dpkg/alternatives
+r/r 7918:	var/lib/dpkg/alternatives/xulrunner-addons-flashplugin
+r/r 7695:	var/lib/dpkg/alternatives/libgksu-gconf-defaults
+r/r 7882:	var/lib/dpkg/alternatives/iceape-flashplugin
+r/r 7884:	var/lib/dpkg/alternatives/iceweasel-flashplugin
+r/r 7885:	var/lib/dpkg/alternatives/mozilla-flashplugin
+r/r 7914:	var/lib/dpkg/alternatives/firefox-flashplugin
+r/r 7916:	var/lib/dpkg/alternatives/xulrunner-flashplugin
+r/r 7917:	var/lib/dpkg/alternatives/midbrowser-flashplugin
+r/r * 7695(realloc):	var/lib/dpkg/alternatives/libgksu-gconf-defaults.dpkg-new
+r/r 7688:	var/lib/dpkg/lock
+d/d 7733:	var/lib/dpkg/info
+r/r 12:	var/lib/dpkg/info/.wh.gdm-guest-session.list
+r/r 7863:	var/lib/dpkg/info/gnash-common.postrm
+r/r 12:	var/lib/dpkg/info/.wh.gdm-guest-session.conffiles
+r/r 12:	var/lib/dpkg/info/.wh.gdm-guest-session.md5sums
+r/r 7847:	var/lib/dpkg/info/libboost-date-time1.34.1.postrm
+r/r 7851:	var/lib/dpkg/info/libboost-date-time1.34.1.list
+r/r 7846:	var/lib/dpkg/info/libboost-date-time1.34.1.postinst
+r/r 7845:	var/lib/dpkg/info/libboost-date-time1.34.1.shlibs
+r/r 7848:	var/lib/dpkg/info/libboost-date-time1.34.1.md5sums
+r/r 7855:	var/lib/dpkg/info/libboost-thread1.34.1.postrm
+r/r 7859:	var/lib/dpkg/info/libboost-thread1.34.1.list
+r/r 7854:	var/lib/dpkg/info/libboost-thread1.34.1.postinst
+r/r 7849:	var/lib/dpkg/info/libboost-thread1.34.1.shlibs
+r/r 7856:	var/lib/dpkg/info/libboost-thread1.34.1.md5sums
+r/r 7869:	var/lib/dpkg/info/gnash-common.list
+r/r 7862:	var/lib/dpkg/info/gnash-common.postinst
+r/r 7857:	var/lib/dpkg/info/gnash-common.shlibs
+r/r 7864:	var/lib/dpkg/info/gnash-common.md5sums
+r/r 7865:	var/lib/dpkg/info/gnash.md5sums
+r/r 7874:	var/lib/dpkg/info/gnash.list
+r/r 7879:	var/lib/dpkg/info/mozilla-plugin-gnash.postrm
+r/r 7883:	var/lib/dpkg/info/mozilla-plugin-gnash.list
+r/r 7877:	var/lib/dpkg/info/mozilla-plugin-gnash.postinst
+r/r 7878:	var/lib/dpkg/info/mozilla-plugin-gnash.prerm
+r/r 7872:	var/lib/dpkg/info/mozilla-plugin-gnash.shlibs
+r/r 7880:	var/lib/dpkg/info/mozilla-plugin-gnash.md5sums
+r/r 7724:	var/lib/dpkg/diversions
+r/r 7715:	var/lib/dpkg/diversions-old
+d/d 7725:	var/lib/dpkg/updates
+r/r * 7721(realloc):	var/lib/dpkg/updates/tmp.i
+r/p * 7797:	var/lib/dpkg/updates/0000
+r/r * 7843(realloc):	var/lib/dpkg/updates/0001
+r/r * 7844(realloc):	var/lib/dpkg/updates/0002
+r/r * 7852(realloc):	var/lib/dpkg/updates/0003
+r/r * 7858(realloc):	var/lib/dpkg/updates/0004
+r/r * 7850(realloc):	var/lib/dpkg/updates/0005
+r/r * 7860(realloc):	var/lib/dpkg/updates/0006
+r/r * 7853(realloc):	var/lib/dpkg/updates/0007
+r/r * 7861(realloc):	var/lib/dpkg/updates/0008
+r/r * 7867(realloc):	var/lib/dpkg/updates/0009
+r/r * 7866(realloc):	var/lib/dpkg/updates/0010
+r/r * 7868(realloc):	var/lib/dpkg/updates/0011
+r/r * 7871(realloc):	var/lib/dpkg/updates/0012
+r/r * 7873(realloc):	var/lib/dpkg/updates/0013
+r/r * 7875(realloc):	var/lib/dpkg/updates/0014
+r/r * 7876(realloc):	var/lib/dpkg/updates/0015
+r/r * 7919(realloc):	var/lib/dpkg/updates/0016
+r/r * 7920(realloc):	var/lib/dpkg/updates/0017
+r/r * 7844(realloc):	var/lib/dpkg/updates/0018
+d/d 7727:	var/lib/dpkg/triggers
+r/r 7728:	var/lib/dpkg/triggers/Lock
+r/r * 7870(realloc):	var/lib/dpkg/triggers/Unincorp.new
+r/r 7870:	var/lib/dpkg/triggers/Unincorp
+r/r 7924:	var/lib/dpkg/available
+r/r 7915:	var/lib/dpkg/status
+r/r 7802:	var/lib/dpkg/status-old
+r/r * 7924(realloc):	var/lib/dpkg/available-new
+r/r * 12(realloc):	var/lib/dpkg/.wh.available-old
+r/r 7804:	var/lib/dpkg/available-old
+d/d 7696:	var/lib/gconf
+d/d 7697:	var/lib/gconf/debian.defaults
+r/r * 7698(realloc):	var/lib/gconf/debian.defaults/%gconf-tree.xml.tmp
+r/r 7698:	var/lib/gconf/debian.defaults/%gconf-tree.xml
+d/d 7699:	var/lib/locales
+d/d 7700:	var/lib/locales/supported.d
+r/r 7701:	var/lib/locales/supported.d/local
+d/d 7702:	var/lib/belocs
+r/r 7703:	var/lib/belocs/locales.dep
+r/r * 12(realloc):	var/lib/belocs/.wh.hashfile
+r/r 7704:	var/lib/belocs/hashfile.old
+r/r 7705:	var/lib/belocs/hashfile.new
+r/r 7706:	var/lib/belocs/list
+r/r 7707:	var/lib/belocs/magic
+r/r 7708:	var/lib/belocs/hashfile
+d/d 7686:	var/lib/x11
+r/r 7710:	var/lib/x11/xorg.conf.md5sum
+d/d 7716:	var/lib/apt
+d/d 7717:	var/lib/apt/lists
+r/r 7718:	var/lib/apt/lists/Ubuntu%208.10%20%5fIntrepid%20Ibex%5f%20-%20Release%20i386%20(20081029.5)_dists_intrepid_Release
+r/r 7818:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_Release
+d/d 7720:	var/lib/apt/lists/partial
+r/r * 7830(realloc):	var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_intrepid-updates_restricted_source_Sources.decomp
+r/r * 7814(realloc):	var/lib/apt/lists/partial/security.ubuntu.com_ubuntu_dists_intrepid-security_Release.gpg.reverify
+r/r * 7817(realloc):	var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_intrepid-updates_Release.gpg.reverify
+r/r * 7820(realloc):	var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_intrepid-updates_restricted_binary-i386_Packages
+r/r * 7821(realloc):	var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_intrepid-updates_universe_binary-i386_Packages
+r/r * 7826(realloc):	var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_intrepid-updates_main_binary-i386_Packages.decomp
+r/r * 7977:	var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_intrepid-updates_restricted_source_Sources
+r/r * 7833(realloc):	var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_intrepid-updates_universe_binary-i386_Packages
+r/r * 7834:	var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_intrepid-updates_main_source_Sources
+r/d * 7835(realloc):	var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_intrepid-updates_restricted_source_Sources
+r/r 7744:	var/lib/apt/lists/Ubuntu%208.10%20%5fIntrepid%20Ibex%5f%20-%20Release%20i386%20(20081029.5)_dists_intrepid_main_binary-i386_Packages
+r/r 7775:	var/lib/apt/lists/Ubuntu%208.10%20%5fIntrepid%20Ibex%5f%20-%20Release%20i386%20(20081029.5)_dists_intrepid_restricted_binary-i386_Packages
+r/r 7972:	var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_Release
+r/r 7973:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_Release
+r/r 7971:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_Release.gpg
+r/r * 12(realloc):	var/lib/apt/lists/.wh.archive.ubuntu.com_ubuntu_dists_intrepid-updates_Release.gpg
+r/r 7719:	var/lib/apt/lists/Ubuntu%208.10%20%5fIntrepid%20Ibex%5f%20-%20Release%20i386%20(20081029.5)_dists_intrepid_Release.gpg
+r/r 7974:	var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_main_binary-i386_Packages
+r/r 7975:	var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_restricted_binary-i386_Packages
+r/r 7824:	var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_universe_binary-i386_Packages
+r/r 7825:	var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_main_source_Sources
+r/r 7816:	var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_restricted_source_Sources
+r/r 7828:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_main_binary-i386_Packages
+r/r 7822:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_restricted_binary-i386_Packages
+r/r 7829:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_universe_binary-i386_Packages
+r/r 7827:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_main_source_Sources
+r/r 7823:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_restricted_source_Sources
+r/r 7826:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_main_binary-i386_Packages
+r/r 7819:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_restricted_binary-i386_Packages
+r/r 7820:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_universe_binary-i386_Packages
+r/r 7821:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_main_source_Sources
+r/r 7830:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid-updates_restricted_source_Sources
+r/r 7815:	var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_intrepid_Release.gpg
+r/r 7970:	var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_intrepid-security_Release.gpg
+d/d 7810:	var/lib/apt/periodic
+r/r 7812:	var/lib/apt/periodic/update-success-stamp
+r/r 7805:	var/lib/apt/periodic/update-stamp
+r/r 7794:	var/lib/apt/cdroms.list
+r/r 7711:	var/lib/apt/cdroms.list~
+r/r * 7794(realloc):	var/lib/apt/cdroms.list.new
+r/r 7844:	var/lib/apt/extended_states
+d/d 7743:	var/lib/urandom
+r/r 7739:	var/lib/urandom/random-seed
+d/d 7761:	var/lib/dbus
+r/r 7763:	var/lib/dbus/machine-id
+r/r * 7763(realloc):	var/lib/dbus/machine-id.kbtJoL78
+d/d 7774:	var/lib/gdm
+p/p * 7797:	var/lib/gdm/.gdmfifo
+r/r 7776:	var/lib/gdm/.cookie
+r/r * 7956:	var/lib/gdm/:0.Xauth
+r/r * 7967:	var/lib/gdm/:0.Xservers
+d/d 7781:	var/lib/xkb
+r/r * 7967:	var/lib/xkb/server-0.xkm
+d/d 7783:	var/lib/acpi-support
+r/r 7784:	var/lib/acpi-support/powerstate
+r/r 7785:	var/lib/acpi-support/system-manufacturer
+r/r 7786:	var/lib/acpi-support/system-product-name
+r/r 7787:	var/lib/acpi-support/system-version
+r/r 7788:	var/lib/acpi-support/bios-version
+d/d 7777:	var/lib/alsa
+r/r 7782:	var/lib/alsa/asound.state
+d/d 7741:	var/lib/update-notifier
+r/r 7843:	var/lib/update-notifier/dpkg-run-stamp
+d/d 7807:	var/lib/logrotate
+r/r 7850:	var/lib/logrotate/status
+d/d 7946:	var/lib/mlocate
+r/r * 7831(realloc):	var/lib/mlocate/daily.lock
+r/r * 7833(realloc):	var/lib/mlocate/mlocate.db.m1H3Px
+r/r 7833:	var/lib/mlocate/mlocate.db
+d/d 7732:	var/run
+r/r 7734:	var/run/utmp
+d/d 7762:	var/crash
+d/d 7764:	var/spool
+d/d 7765:	var/spool/cups
+d/d 7768:	var/spool/cups/tmp
+d/d 7791:	var/tmp
+r/r * 7970(realloc):	var/tmp/etilqs_egsdEKujRScpDkm
+d/d 7947:	var/backups
+r/r 7949:	var/backups/passwd.bak
+r/r 7950:	var/backups/group.bak
+r/r 7951:	var/backups/shadow.bak
+r/r 7952:	var/backups/gshadow.bak
+r/r * 7953(realloc):	var/backups/dpkg.status
+r/r 7953:	var/backups/dpkg.status.0
+d/d 30721:	tmp
+d/d 30836:	tmp/.X11-unix
+s/h * 30839:	tmp/.X11-unix/X0
+r/d * 30840:	tmp/.X11-unix/Device
+r/h * 30841:	tmp/.X11-unix/Monitor
+r/r * 30848:	tmp/.X11-unix/Screen
+r/h * 30852:	tmp/.X11-unix/dexconf-out
+d/d 30837:	tmp/.ICE-unix
+s/h * 30852:	tmp/.ICE-unix/7804
+d/d 30842:	tmp/pulse-ubuntu
+r/r 30843:	tmp/pulse-ubuntu/pid
+s/h 30846:	tmp/pulse-ubuntu/native
+r/r * 30838:	tmp/.X0-lock
+d/d * 30840:	tmp/ssh-XgpsVU7804
+d/d 30844:	tmp/.esd-999
+s/h 30845:	tmp/.esd-999/socket
+d/d 30847:	tmp/orbit-ubuntu
+s/h * 30852:	tmp/orbit-ubuntu/linc-2947-0-65973aff71ac9
+s/h 30849:	tmp/orbit-ubuntu/linc-1fb8-0-378062fa7946f
+s/r * 30853:	tmp/orbit-ubuntu/linc-1e7c-0-770a1f2c44b93
+s/h 30859:	tmp/orbit-ubuntu/linc-1fe5-0-3e57dd36bb90d
+s/h 30860:	tmp/orbit-ubuntu/linc-1fe6-0-5ff9a6fd442df
+s/h 30861:	tmp/orbit-ubuntu/linc-2002-0-6c5ffe6fbf0b1
+r/r * 30848:	tmp/orbit-ubuntu/bonobo-activation-register-53f320a025ee31abebaed5254963aa52.lock
+s/h * 30863:	tmp/orbit-ubuntu/linc-1fdc-0-337bee405dc76
+s/h 30864:	tmp/orbit-ubuntu/linc-200a-0-1b2a4246ad648
+r/r * 30853:	tmp/orbit-ubuntu/bonobo-activation-server-53f320a025ee31abebaed5254963aa52-ior
+s/h * 30867:	tmp/orbit-ubuntu/linc-201e-0-ebeb8bc2b587
+s/h * 30868:	tmp/orbit-ubuntu/linc-2063-0-554d625fb785
+s/h 30870:	tmp/orbit-ubuntu/linc-2076-0-49d2e7b7a3650
+s/h 30871:	tmp/orbit-ubuntu/linc-2078-0-5b1dae6c15933
+s/h 30872:	tmp/orbit-ubuntu/linc-207f-0-5b1dae6c24cd1
+s/h * 30873:	tmp/orbit-ubuntu/linc-207b-0-30304cba3905f
+s/h 30874:	tmp/orbit-ubuntu/linc-2075-0-5b1dae6ce9e29
+s/h 30875:	tmp/orbit-ubuntu/linc-2088-0-904017542ccc
+s/h * 30876:	tmp/orbit-ubuntu/linc-208c-0-9040175b6c33
+s/h 30877:	tmp/orbit-ubuntu/linc-208e-0-3aa918a3c15a5
+s/h * 30879:	tmp/orbit-ubuntu/linc-209c-0-38915090de81c
+d/d 30850:	tmp/seahorse-Gf9ytK
+s/h 30851:	tmp/seahorse-Gf9ytK/S.gpg-agent
+d/d * 30855:	tmp/keyring-4TMc7T
+d/d 30869:	tmp/virtual-ubuntu.Q2LE37
+r/r * 30848:	tmp/virtual-ubuntu.Q2LE37/%gconf-tree.xml.new
+r/r * 30848:	tmp/virtual-ubuntu.Q2LE37/%gconf-tree.xml
+r/r * 30848:	tmp/virtual-ubuntu.Q2LE37/.testing.writeability
+d/d 30878:	tmp/.exchange-ubuntu
+d/d 30881:	tmp/www.osac.gov
+d/d 30884:	tmp/www.osac.gov/swf
+d/d 30888:	tmp/www.osac.gov/swf/osac_main.swf
+r/r 30889:	tmp/www.osac.gov/swf/osac_main.swf/TestMovie_Config_Info.sol
+d/d * 30840:	tmp/.wh..wh.ssh-XgpsVU7804.0013
+r/r * 30899:	tmp/BxxJT3
+d/h * 30879:	tmp/.wh..wh.Tracker-ubuntu.8350.0016
+r/r * 30899:	tmp/2D4HL2
+d/d 30722:	lib
+d/d 30723:	lib/modules
+d/d 30724:	lib/modules/2.6.27-7-generic
+d/d 30725:	lib/modules/2.6.27-7-generic/kernel
+d/d 30726:	lib/modules/2.6.27-7-generic/kernel/drivers
+d/d 30727:	lib/modules/2.6.27-7-generic/kernel/drivers/acpi
+r/r 30728:	lib/modules/2.6.27-7-generic/kernel/drivers/acpi/battery.ko
+r/r 30747:	lib/modules/2.6.27-7-generic/kernel/drivers/acpi/button.ko
+r/r 30787:	lib/modules/2.6.27-7-generic/kernel/drivers/acpi/ac.ko
+r/r 30788:	lib/modules/2.6.27-7-generic/kernel/drivers/acpi/bay.ko
+r/r 30789:	lib/modules/2.6.27-7-generic/kernel/drivers/acpi/container.ko
+r/r 30790:	lib/modules/2.6.27-7-generic/kernel/drivers/acpi/pci_slot.ko
+r/r 30791:	lib/modules/2.6.27-7-generic/kernel/drivers/acpi/sbshc.ko
+r/r 30792:	lib/modules/2.6.27-7-generic/kernel/drivers/acpi/sbs.ko
+r/r 30795:	lib/modules/2.6.27-7-generic/kernel/drivers/acpi/video.ko
+r/r 30796:	lib/modules/2.6.27-7-generic/kernel/drivers/acpi/wmi.ko
+d/d 30729:	lib/modules/2.6.27-7-generic/kernel/drivers/char
+d/d 30730:	lib/modules/2.6.27-7-generic/kernel/drivers/char/agp
+r/r 30731:	lib/modules/2.6.27-7-generic/kernel/drivers/char/agp/agpgart.ko
+r/r 30732:	lib/modules/2.6.27-7-generic/kernel/drivers/char/agp/intel-agp.ko
+d/d 30744:	lib/modules/2.6.27-7-generic/kernel/drivers/char/hw_random
+r/r 30745:	lib/modules/2.6.27-7-generic/kernel/drivers/char/hw_random/intel-rng.ko
+r/r 30813:	lib/modules/2.6.27-7-generic/kernel/drivers/char/lp.ko
+r/r 30814:	lib/modules/2.6.27-7-generic/kernel/drivers/char/ppdev.ko
+d/d 30733:	lib/modules/2.6.27-7-generic/kernel/drivers/pci
+d/d 30734:	lib/modules/2.6.27-7-generic/kernel/drivers/pci/hotplug
+r/r 30735:	lib/modules/2.6.27-7-generic/kernel/drivers/pci/hotplug/pci_hotplug.ko
+r/r 30739:	lib/modules/2.6.27-7-generic/kernel/drivers/pci/hotplug/shpchp.ko
+d/d 30736:	lib/modules/2.6.27-7-generic/kernel/drivers/watchdog
+r/r 30737:	lib/modules/2.6.27-7-generic/kernel/drivers/watchdog/iTCO_vendor_support.ko
+r/r 30738:	lib/modules/2.6.27-7-generic/kernel/drivers/watchdog/iTCO_wdt.ko
+d/d 30757:	lib/modules/2.6.27-7-generic/kernel/drivers/parport
+r/r 30758:	lib/modules/2.6.27-7-generic/kernel/drivers/parport/parport.ko
+r/r 30759:	lib/modules/2.6.27-7-generic/kernel/drivers/parport/parport_pc.ko
+d/d 30770:	lib/modules/2.6.27-7-generic/kernel/drivers/input
+r/r 30771:	lib/modules/2.6.27-7-generic/kernel/drivers/input/evdev.ko
+d/d 30772:	lib/modules/2.6.27-7-generic/kernel/drivers/input/serio
+r/r 30773:	lib/modules/2.6.27-7-generic/kernel/drivers/input/serio/serio_raw.ko
+d/d 30774:	lib/modules/2.6.27-7-generic/kernel/drivers/input/mouse
+r/r 30775:	lib/modules/2.6.27-7-generic/kernel/drivers/input/mouse/psmouse.ko
+d/d 30776:	lib/modules/2.6.27-7-generic/kernel/drivers/input/misc
+r/r 30777:	lib/modules/2.6.27-7-generic/kernel/drivers/input/misc/pcspkr.ko
+d/d 30778:	lib/modules/2.6.27-7-generic/kernel/drivers/firmware
+r/r 30779:	lib/modules/2.6.27-7-generic/kernel/drivers/firmware/dcdbas.ko
+d/d 30793:	lib/modules/2.6.27-7-generic/kernel/drivers/video
+r/r 30794:	lib/modules/2.6.27-7-generic/kernel/drivers/video/output.ko
+d/d 30797:	lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq
+r/r 30798:	lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/cpufreq_conservative.ko
+r/r 30799:	lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/freq_table.ko
+r/r 30800:	lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/cpufreq_ondemand.ko
+r/r 30801:	lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/cpufreq_powersave.ko
+r/r 30802:	lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/cpufreq_stats.ko
+r/r 30803:	lib/modules/2.6.27-7-generic/kernel/drivers/cpufreq/cpufreq_userspace.ko
+d/d 30740:	lib/modules/2.6.27-7-generic/kernel/sound
+d/d 30741:	lib/modules/2.6.27-7-generic/kernel/sound/core
+r/r 30742:	lib/modules/2.6.27-7-generic/kernel/sound/core/snd-page-alloc.ko
+r/r 30746:	lib/modules/2.6.27-7-generic/kernel/sound/core/snd.ko
+d/d 30748:	lib/modules/2.6.27-7-generic/kernel/sound/core/seq
+r/r 30749:	lib/modules/2.6.27-7-generic/kernel/sound/core/seq/snd-seq-device.ko
+r/r 30751:	lib/modules/2.6.27-7-generic/kernel/sound/core/seq/snd-seq.ko
+r/r 30752:	lib/modules/2.6.27-7-generic/kernel/sound/core/seq/snd-seq-midi-event.ko
+r/r 30754:	lib/modules/2.6.27-7-generic/kernel/sound/core/seq/snd-seq-midi.ko
+d/d 30755:	lib/modules/2.6.27-7-generic/kernel/sound/core/seq/oss
+r/r 30756:	lib/modules/2.6.27-7-generic/kernel/sound/core/seq/oss/snd-seq-oss.ko
+r/r 30760:	lib/modules/2.6.27-7-generic/kernel/sound/core/seq/snd-seq-dummy.ko
+r/r 30750:	lib/modules/2.6.27-7-generic/kernel/sound/core/snd-timer.ko
+r/r 30753:	lib/modules/2.6.27-7-generic/kernel/sound/core/snd-rawmidi.ko
+r/r 30761:	lib/modules/2.6.27-7-generic/kernel/sound/core/snd-pcm.ko
+d/d 30762:	lib/modules/2.6.27-7-generic/kernel/sound/core/oss
+r/r 30763:	lib/modules/2.6.27-7-generic/kernel/sound/core/oss/snd-mixer-oss.ko
+r/r 30764:	lib/modules/2.6.27-7-generic/kernel/sound/core/oss/snd-pcm-oss.ko
+r/r 30743:	lib/modules/2.6.27-7-generic/kernel/sound/soundcore.ko
+r/r 30765:	lib/modules/2.6.27-7-generic/kernel/sound/ac97_bus.ko
+d/d 30766:	lib/modules/2.6.27-7-generic/kernel/sound/pci
+d/d 30767:	lib/modules/2.6.27-7-generic/kernel/sound/pci/ac97
+r/r 30768:	lib/modules/2.6.27-7-generic/kernel/sound/pci/ac97/snd-ac97-codec.ko
+r/r 30769:	lib/modules/2.6.27-7-generic/kernel/sound/pci/snd-intel8x0.ko
+d/d 30780:	lib/modules/2.6.27-7-generic/kernel/net
+d/d 30781:	lib/modules/2.6.27-7-generic/kernel/net/netfilter
+r/r 30782:	lib/modules/2.6.27-7-generic/kernel/net/netfilter/x_tables.ko
+d/d 30783:	lib/modules/2.6.27-7-generic/kernel/net/ipv4
+d/d 30784:	lib/modules/2.6.27-7-generic/kernel/net/ipv4/netfilter
+r/r 30785:	lib/modules/2.6.27-7-generic/kernel/net/ipv4/netfilter/ip_tables.ko
+r/r 30786:	lib/modules/2.6.27-7-generic/kernel/net/ipv4/netfilter/iptable_filter.ko
+d/d 30815:	lib/modules/2.6.27-7-generic/kernel/net/bluetooth
+r/r 30816:	lib/modules/2.6.27-7-generic/kernel/net/bluetooth/bluetooth.ko
+r/r 30817:	lib/modules/2.6.27-7-generic/kernel/net/bluetooth/l2cap.ko
+r/r 30818:	lib/modules/2.6.27-7-generic/kernel/net/bluetooth/sco.ko
+d/d 30819:	lib/modules/2.6.27-7-generic/kernel/net/bluetooth/rfcomm
+r/r 30820:	lib/modules/2.6.27-7-generic/kernel/net/bluetooth/rfcomm/rfcomm.ko
+d/d 30821:	lib/modules/2.6.27-7-generic/kernel/net/bluetooth/bnep
+r/r 30822:	lib/modules/2.6.27-7-generic/kernel/net/bluetooth/bnep/bnep.ko
+d/d 30823:	lib/modules/2.6.27-7-generic/kernel/net/802
+r/r 30824:	lib/modules/2.6.27-7-generic/kernel/net/802/stp.ko
+d/d 30825:	lib/modules/2.6.27-7-generic/kernel/net/bridge
+r/r 30826:	lib/modules/2.6.27-7-generic/kernel/net/bridge/bridge.ko
+d/d 30829:	lib/modules/2.6.27-7-generic/kernel/net/packet
+r/r 30830:	lib/modules/2.6.27-7-generic/kernel/net/packet/af_packet.ko
+d/d 30831:	lib/modules/2.6.27-7-generic/kernel/net/ipv6
+r/r 30832:	lib/modules/2.6.27-7-generic/kernel/net/ipv6/ipv6.ko
+d/d 30833:	lib/modules/2.6.27-7-generic/kernel/net/ipv6/netfilter
+r/r 30834:	lib/modules/2.6.27-7-generic/kernel/net/ipv6/netfilter/ip6_tables.ko
+r/r 30835:	lib/modules/2.6.27-7-generic/kernel/net/ipv6/netfilter/ip6table_filter.ko
+d/d 30804:	lib/modules/2.6.27-7-generic/kernel/arch
+d/d 30805:	lib/modules/2.6.27-7-generic/kernel/arch/x86
+d/d 30806:	lib/modules/2.6.27-7-generic/kernel/arch/x86/kernel
+d/d 30807:	lib/modules/2.6.27-7-generic/kernel/arch/x86/kernel/cpu
+d/d 30808:	lib/modules/2.6.27-7-generic/kernel/arch/x86/kernel/cpu/cpufreq
+r/r 30809:	lib/modules/2.6.27-7-generic/kernel/arch/x86/kernel/cpu/cpufreq/speedstep-lib.ko
+r/r 30810:	lib/modules/2.6.27-7-generic/kernel/arch/x86/kernel/cpu/cpufreq/speedstep-ich.ko
+r/r 30811:	lib/modules/2.6.27-7-generic/kernel/arch/x86/kernel/cpu/cpufreq/acpi-cpufreq.ko
+r/r 30812:	lib/modules/2.6.27-7-generic/kernel/arch/x86/kernel/apm.ko
+d/d 30827:	lib/modules/2.6.27-7-generic/kernel/fs
+r/r 30828:	lib/modules/2.6.27-7-generic/kernel/fs/binfmt_misc.ko
+r/d * 30724(realloc):	lib/Device
+r/d * 30725(realloc):	lib/Monitor
+r/d * 30726(realloc):	lib/Screen
+r/d * 30727(realloc):	lib/dexconf-out
+d/d 15377:	usr
+d/d 15379:	usr/sbin
+r/r 12:	usr/sbin/.wh.anacron
+r/r 15380:	usr/sbin/anacron.distrib
+r/r * 12(realloc):	usr/sbin/.wh.update-initramfs
+r/r 15393:	usr/sbin/update-initramfs.distrib
+r/r 15394:	usr/sbin/update-initramfs
+d/d 15381:	usr/lib
+d/d 15382:	usr/lib/update-notifier
+r/r * 12(realloc):	usr/lib/update-notifier/.wh.apt-check
+r/r 15383:	usr/lib/update-notifier/apt-check.distrib
+l/l 15384:	usr/lib/update-notifier/apt-check
+r/r 15727:	usr/lib/libboost_date_time-gcc42-mt-1_34_1.so.1.34.1
+r/r 15667:	usr/lib/libboost_date_time-gcc42-1_34_1.so.1.34.1
+d/d 23173:	usr/lib/iceweasel
+d/d * 23174(realloc):	usr/lib/iceweasel/plugins.dpkg-new
+d/d 23174:	usr/lib/iceweasel/plugins
+l/l * 23194(realloc):	usr/lib/iceweasel/plugins/flashplugin-alternative.so.dpkg-tmp
+l/l 23194:	usr/lib/iceweasel/plugins/flashplugin-alternative.so
+d/d 23155:	usr/lib/gnash
+l/l * 23190(realloc):	usr/lib/gnash/libmozsdk.so.0.dpkg-new
+r/r 23156:	usr/lib/gnash/libgnashamf-0.8.4.so
+r/r 23157:	usr/lib/gnash/libgnashbase-0.8.4.so
+r/r 23158:	usr/lib/gnash/libgnashcore-0.8.4.so
+r/r 23159:	usr/lib/gnash/libgnashmedia-0.8.4.so
+r/r 23160:	usr/lib/gnash/libgnashnet.so.0.0.0
+l/l 23163:	usr/lib/gnash/libgnashnet.so.0
+r/r 23181:	usr/lib/gnash/libgnashplugin.so
+r/r 23182:	usr/lib/gnash/libmozsdk.so.0.0.0
+l/l 23190:	usr/lib/gnash/libmozsdk.so.0
+d/d 23171:	usr/lib/iceape
+d/d * 23172(realloc):	usr/lib/iceape/plugins.dpkg-new
+d/d 23172:	usr/lib/iceape/plugins
+l/l * 23192(realloc):	usr/lib/iceape/plugins/flashplugin-alternative.so.dpkg-tmp
+l/l 23192:	usr/lib/iceape/plugins/flashplugin-alternative.so
+l/l 15728:	usr/lib/libboost_date_time-gcc41-mt-1_34_1.so.1.34.1
+l/l 15729:	usr/lib/libboost_date_time-gcc41-1_34_1.so.1.34.1
+r/r 15730:	usr/lib/libboost_thread-gcc42-mt-1_34_1.so.1.34.1
+l/l 15731:	usr/lib/libboost_thread-gcc41-mt-1_34_1.so.1.34.1
+d/d 23175:	usr/lib/firefox
+d/d * 23176(realloc):	usr/lib/firefox/plugins.dpkg-new
+d/d 23176:	usr/lib/firefox/plugins
+r/r 12:	usr/lib/firefox/plugins/.wh..wh..opq
+l/l * 23200(realloc):	usr/lib/firefox/plugins/flashplugin-alternative.so.dpkg-tmp
+l/l 23200:	usr/lib/firefox/plugins/flashplugin-alternative.so
+d/d 23196:	usr/lib/mozilla
+d/d 23197:	usr/lib/mozilla/plugins
+l/l * 23198(realloc):	usr/lib/mozilla/plugins/flashplugin-alternative.so.dpkg-tmp
+l/l 23198:	usr/lib/mozilla/plugins/flashplugin-alternative.so
+d/d 23177:	usr/lib/xulrunner
+d/d * 23178(realloc):	usr/lib/xulrunner/plugins.dpkg-new
+d/d 23178:	usr/lib/xulrunner/plugins
+l/l * 23202(realloc):	usr/lib/xulrunner/plugins/flashplugin-alternative.so.dpkg-tmp
+l/l 23202:	usr/lib/xulrunner/plugins/flashplugin-alternative.so
+d/d 23179:	usr/lib/midbrowser
+d/d * 23180(realloc):	usr/lib/midbrowser/plugins.dpkg-new
+d/d 23180:	usr/lib/midbrowser/plugins
+l/l * 23204(realloc):	usr/lib/midbrowser/plugins/flashplugin-alternative.so.dpkg-tmp
+l/l 23204:	usr/lib/midbrowser/plugins/flashplugin-alternative.so
+d/d 23206:	usr/lib/xulrunner-addons
+d/d 23207:	usr/lib/xulrunner-addons/plugins
+l/l * 23208(realloc):	usr/lib/xulrunner-addons/plugins/flashplugin-alternative.so.dpkg-tmp
+l/l 23208:	usr/lib/xulrunner-addons/plugins/flashplugin-alternative.so
+d/d 23210:	usr/lib/firefox-3.0.3
+r/r 23211:	usr/lib/firefox-3.0.3/.autoreg
+d/d 15389:	usr/share
+d/d 15390:	usr/share/applications
+r/r * 15567(realloc):	usr/share/applications/language-selector.desktop0QgBKQ
+r/r 15567:	usr/share/applications/language-selector.desktop
+r/r 15732:	usr/share/applications/gnash.desktop
+d/d 15392:	usr/share/autostart
+r/r 12:	usr/share/autostart/.wh.trackerd.desktop
+d/d 15395:	usr/share/doc
+d/d 23116:	usr/share/doc/gnash-common
+r/r 23122:	usr/share/doc/gnash-common/changelog.Debian.gz
+r/r 23117:	usr/share/doc/gnash-common/changelog.gz
+r/r 23118:	usr/share/doc/gnash-common/NEWS.gz
+r/r 23119:	usr/share/doc/gnash-common/README.gz
+r/r 23120:	usr/share/doc/gnash-common/AUTHORS
+r/r 23121:	usr/share/doc/gnash-common/copyright
+r/r * 23123(realloc):	usr/share/doc/gnash-common/README.amf.gz.dpkg-new
+r/r 23123:	usr/share/doc/gnash-common/README.amf.gz
+r/r 12:	usr/share/doc/.wh.gdm-guest-session
+d/d * 23164(realloc):	usr/share/doc/gnash.dpkg-new
+d/d 23164:	usr/share/doc/gnash
+r/r 23167:	usr/share/doc/gnash/changelog.Debian.gz
+r/r 23165:	usr/share/doc/gnash/changelog.gz
+r/r 23166:	usr/share/doc/gnash/copyright
+r/r * 23167(realloc):	usr/share/doc/gnash/changelog.Debian.gz.dpkg-new
+d/d 23107:	usr/share/doc/libboost-date-time1.34.1
+r/r 23109:	usr/share/doc/libboost-date-time1.34.1/README.Debian.gz
+r/r 23108:	usr/share/doc/libboost-date-time1.34.1/copyright
+r/r * 23110(realloc):	usr/share/doc/libboost-date-time1.34.1/changelog.Debian.gz.dpkg-new
+r/r 23110:	usr/share/doc/libboost-date-time1.34.1/changelog.Debian.gz
+d/d 23112:	usr/share/doc/libboost-thread1.34.1
+r/r 23114:	usr/share/doc/libboost-thread1.34.1/README.Debian.gz
+r/r 23113:	usr/share/doc/libboost-thread1.34.1/copyright
+r/r * 23115(realloc):	usr/share/doc/libboost-thread1.34.1/changelog.Debian.gz.dpkg-new
+r/r 23115:	usr/share/doc/libboost-thread1.34.1/changelog.Debian.gz
+d/d * 23183(realloc):	usr/share/doc/mozilla-plugin-gnash.dpkg-new
+d/d 23183:	usr/share/doc/mozilla-plugin-gnash
+r/r 23186:	usr/share/doc/mozilla-plugin-gnash/changelog.Debian.gz
+r/r 23184:	usr/share/doc/mozilla-plugin-gnash/changelog.gz
+r/r 23185:	usr/share/doc/mozilla-plugin-gnash/copyright
+r/r * 23186(realloc):	usr/share/doc/mozilla-plugin-gnash/changelog.Debian.gz.dpkg-new
+d/d 15396:	usr/share/gdm
+d/d * 15397(realloc):	usr/share/gdm/guest-session
+r/r 12:	usr/share/gdm/.wh.guest-session
+d/d * 15397(realloc):	usr/share/gdm/.wh..wh.guest-session.0004
+d/d 15397:	usr/share/ppd
+d/d 15398:	usr/share/ppd/custom
+d/d 23098:	usr/share/lintian
+d/d 23103:	usr/share/lintian/overrides
+r/r * 23187(realloc):	usr/share/lintian/overrides/gnash-plugin.dpkg-new
+r/r 23106:	usr/share/lintian/overrides/libboost-date-time1.34.1
+r/r 23111:	usr/share/lintian/overrides/libboost-thread1.34.1
+r/r 23187:	usr/share/lintian/overrides/gnash-plugin
+d/d 23124:	usr/share/man
+d/d 23125:	usr/share/man/man1
+r/r * 23126(realloc):	usr/share/man/man1/gnash.1.gz.dpkg-new
+r/r 23126:	usr/share/man/man1/gnash.1.gz
+d/d 23130:	usr/share/locale
+d/d 23131:	usr/share/locale/cs
+d/d 23132:	usr/share/locale/cs/LC_MESSAGES
+r/r * 23133(realloc):	usr/share/locale/cs/LC_MESSAGES/gnash.mo.dpkg-new
+r/r 23133:	usr/share/locale/cs/LC_MESSAGES/gnash.mo
+d/d 23134:	usr/share/locale/de
+d/d 23135:	usr/share/locale/de/LC_MESSAGES
+r/r * 23136(realloc):	usr/share/locale/de/LC_MESSAGES/gnash.mo.dpkg-new
+r/r 23136:	usr/share/locale/de/LC_MESSAGES/gnash.mo
+d/d 23137:	usr/share/locale/es
+d/d 23138:	usr/share/locale/es/LC_MESSAGES
+r/r * 23139(realloc):	usr/share/locale/es/LC_MESSAGES/gnash.mo.dpkg-new
+r/r 23139:	usr/share/locale/es/LC_MESSAGES/gnash.mo
+d/d 23140:	usr/share/locale/fi
+d/d 23141:	usr/share/locale/fi/LC_MESSAGES
+r/r * 23142(realloc):	usr/share/locale/fi/LC_MESSAGES/gnash.mo.dpkg-new
+r/r 23142:	usr/share/locale/fi/LC_MESSAGES/gnash.mo
+d/d 23143:	usr/share/locale/fr
+d/d 23144:	usr/share/locale/fr/LC_MESSAGES
+r/r * 23145(realloc):	usr/share/locale/fr/LC_MESSAGES/gnash.mo.dpkg-new
+r/r 23145:	usr/share/locale/fr/LC_MESSAGES/gnash.mo
+d/d 23146:	usr/share/locale/it
+d/d 23147:	usr/share/locale/it/LC_MESSAGES
+r/r * 23148(realloc):	usr/share/locale/it/LC_MESSAGES/gnash.mo.dpkg-new
+r/r 23148:	usr/share/locale/it/LC_MESSAGES/gnash.mo
+d/d 23149:	usr/share/locale/ja
+d/d 23150:	usr/share/locale/ja/LC_MESSAGES
+r/r * 23151(realloc):	usr/share/locale/ja/LC_MESSAGES/gnash.mo.dpkg-new
+r/r 23151:	usr/share/locale/ja/LC_MESSAGES/gnash.mo
+d/d 23152:	usr/share/locale/sv
+d/d 23153:	usr/share/locale/sv/LC_MESSAGES
+r/r * 23154(realloc):	usr/share/locale/sv/LC_MESSAGES/gnash.mo.dpkg-new
+r/r 23154:	usr/share/locale/sv/LC_MESSAGES/gnash.mo
+d/d 23127:	usr/share/gnash
+r/r * 23129(realloc):	usr/share/gnash/GnashG.png.dpkg-new
+r/r 23128:	usr/share/gnash/gnash_128_96.ico
+r/r 23129:	usr/share/gnash/GnashG.png
+d/d 23168:	usr/share/pixmaps
+r/r * 23169(realloc):	usr/share/pixmaps/gnash.xpm.dpkg-new
+r/r 23169:	usr/share/pixmaps/gnash.xpm
+d/d 23188:	usr/share/ubufox
+d/d * 23189(realloc):	usr/share/ubufox/plugins.dpkg-new
+d/d 23189:	usr/share/ubufox/plugins
+r/r 12:	usr/share/ubufox/plugins/.wh..wh..opq
+l/l * 23191(realloc):	usr/share/ubufox/plugins/libgnashplugin.so.dpkg-new
+l/l 23191:	usr/share/ubufox/plugins/libgnashplugin.so
+d/d 23161:	usr/bin
+r/r 23170:	usr/bin/gtk-gnash
+r/r 23162:	usr/bin/gnash
+r/r * 23170(realloc):	usr/bin/gtk-gnash.dpkg-new
+d/d 7712:	sbin
+r/r 7714:	sbin/readahead-list
+d/d 13:	root
+d/d 18:	root/.pulse
+r/r 19:	root/.pulse-cookie
+d/d 14:	root/.synaptic
+r/r 21:	root/.synaptic/lock
+r/r 22:	root/.synaptic/lock.non-interactive
+r/r 23:	root/.synaptic/selections.proceed
+d/d 32:	root/.synaptic/log
+r/r 34:	root/.synaptic/log/2008-12-30.054435.log
+d/d 24:	root/.gnome2
+d/d 26:	root/.gnome2/accels
+d/d 25:	root/.gnome2_private
+d/d 27:	root/.dbus
+d/d 28:	root/.dbus/session-bus
+r/r 29:	root/.dbus/session-bus/1bc81c59fe3e97e25e8a990649577b0c-0
+d/d 30:	root/.gconf
+r/d * 31(realloc):	root/.gconf/.testing.writeability
+d/d 31:	root/.gconfd
+r/r 33:	root/.gconfd/saved_state
+r/r * 33(realloc):	root/.gconfd/saved_state.tmp
+r/d * 32(realloc):	root/.gconfd/saved_state.orig
+r/r * 35(realloc):	.aufs.xino
+V/V 38401:	$OrphanFiles
+-/r * 15:	$OrphanFiles/OrphanFile-15
+-/r * 7968:	$OrphanFiles/OrphanFile-7968
+-/r * 7969:	$OrphanFiles/OrphanFile-7969
+-/r * 7976:	$OrphanFiles/OrphanFile-7976
+-/r * 16028:	$OrphanFiles/OrphanFile-16028
+-/r * 16045:	$OrphanFiles/OrphanFile-16045
+-/r * 23081:	$OrphanFiles/OrphanFile-23081
+-/r * 23345:	$OrphanFiles/OrphanFile-23345
+-/h * 30854:	$OrphanFiles/OrphanFile-30854
+-/h * 30856:	$OrphanFiles/OrphanFile-30856
+-/h * 30857:	$OrphanFiles/OrphanFile-30857
+-/h * 30858:	$OrphanFiles/OrphanFile-30858
+-/r * 30862:	$OrphanFiles/OrphanFile-30862
+-/h * 30865:	$OrphanFiles/OrphanFile-30865
+-/r * 30866:	$OrphanFiles/OrphanFile-30866
+-/r * 30893:	$OrphanFiles/OrphanFile-30893
+-/r * 30898:	$OrphanFiles/OrphanFile-30898
+-/r * 30900:	$OrphanFiles/OrphanFile-30900
+-/r * 30901:	$OrphanFiles/OrphanFile-30901
+-/r * 30902:	$OrphanFiles/OrphanFile-30902
+-/r * 30903:	$OrphanFiles/OrphanFile-30903
+-/r * 30904:	$OrphanFiles/OrphanFile-30904
+-/r * 30905:	$OrphanFiles/OrphanFile-30905
